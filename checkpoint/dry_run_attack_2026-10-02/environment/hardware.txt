@@ -1,0 +1,30 @@
+
+
+Name                      : Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+NumberOfCores             : 4
+NumberOfLogicalProcessors : 8
+
+
+
+
+
+Name          : Intel(R) UHD Graphics
+DriverVersion : 27.20.100.8729
+AdapterRAM    : 1073741824
+
+
+
+
+
+TotalPhysicalMemory : 8377323520
+
+
+
+
+
+Caption     : Microsoft Windows 11 Home
+Version     : 10.0.26200
+BuildNumber : 26200
+
+
+

@@ -1,0 +1,13 @@
+# Ambiente e cache
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Configurazione locale (può contenere dati riservati)
+.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini

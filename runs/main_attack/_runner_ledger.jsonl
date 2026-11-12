@@ -1,0 +1,200 @@
+{"timestamp": "2026-10-02T17:38:01.293185+00:00", "event": "LAUNCH", "run_id": "main_attack_s39942_C2-ROTTEN-DYN_t1_9fc0dd04", "block": 1, "seed": 39942, "original_seed": 39942, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:38:12.421346+00:00", "event": "FINISH", "run_id": "main_attack_s39942_C2-ROTTEN-DYN_t1_9fc0dd04", "status": "COMPLETED", "duration_s": 11.1}
+{"timestamp": "2026-10-02T17:38:12.454845+00:00", "event": "LAUNCH", "run_id": "main_attack_s39942_B1-CLEAN-DYN_t1_dac7ee16", "block": 1, "seed": 39942, "original_seed": 39942, "condition": "B1-CLEAN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:38:26.621656+00:00", "event": "FINISH", "run_id": "main_attack_s39942_B1-CLEAN-DYN_t1_dac7ee16", "status": "COMPLETED", "duration_s": 14.2}
+{"timestamp": "2026-10-02T17:38:26.678234+00:00", "event": "LAUNCH", "run_id": "main_attack_s39942_B0-CLEAN-ISO_t1_7bdbc7c9", "block": 1, "seed": 39942, "original_seed": 39942, "condition": "B0-CLEAN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:38:40.460927+00:00", "event": "FINISH", "run_id": "main_attack_s39942_B0-CLEAN-ISO_t1_7bdbc7c9", "status": "COMPLETED", "duration_s": 13.8}
+{"timestamp": "2026-10-02T17:38:40.521709+00:00", "event": "LAUNCH", "run_id": "main_attack_s39942_C1-ROTTEN-ISO_t1_72bf618c", "block": 1, "seed": 39942, "original_seed": 39942, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:38:52.164064+00:00", "event": "FINISH", "run_id": "main_attack_s39942_C1-ROTTEN-ISO_t1_72bf618c", "status": "COMPLETED", "duration_s": 11.6}
+{"timestamp": "2026-10-02T17:38:52.187335+00:00", "event": "LAUNCH", "run_id": "main_attack_s56487_C1-ROTTEN-ISO_t1_5a0fa3ac", "block": 2, "seed": 56487, "original_seed": 56487, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:39:04.471292+00:00", "event": "FINISH", "run_id": "main_attack_s56487_C1-ROTTEN-ISO_t1_5a0fa3ac", "status": "COMPLETED", "duration_s": 12.3}
+{"timestamp": "2026-10-02T17:39:04.519909+00:00", "event": "LAUNCH", "run_id": "main_attack_s56487_C2-ROTTEN-DYN_t1_7fd49e95", "block": 2, "seed": 56487, "original_seed": 56487, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:39:20.064165+00:00", "event": "FINISH", "run_id": "main_attack_s56487_C2-ROTTEN-DYN_t1_7fd49e95", "status": "COMPLETED", "duration_s": 15.5}
+{"timestamp": "2026-10-02T17:39:20.122436+00:00", "event": "LAUNCH", "run_id": "main_attack_s56487_B0-CLEAN-ISO_t1_9f1d9de7", "block": 2, "seed": 56487, "original_seed": 56487, "condition": "B0-CLEAN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:39:34.224509+00:00", "event": "FINISH", "run_id": "main_attack_s56487_B0-CLEAN-ISO_t1_9f1d9de7", "status": "COMPLETED", "duration_s": 14.1}
+{"timestamp": "2026-10-02T17:39:34.258497+00:00", "event": "LAUNCH", "run_id": "main_attack_s56487_B1-CLEAN-DYN_t1_6a670ede", "block": 2, "seed": 56487, "original_seed": 56487, "condition": "B1-CLEAN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:39:49.737881+00:00", "event": "FINISH", "run_id": "main_attack_s56487_B1-CLEAN-DYN_t1_6a670ede", "status": "COMPLETED", "duration_s": 15.5}
+{"timestamp": "2026-10-02T17:39:49.785483+00:00", "event": "LAUNCH", "run_id": "main_attack_s19996_B1-CLEAN-DYN_t1_336222e6", "block": 3, "seed": 19996, "original_seed": 19996, "condition": "B1-CLEAN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:40:04.571520+00:00", "event": "FINISH", "run_id": "main_attack_s19996_B1-CLEAN-DYN_t1_336222e6", "status": "COMPLETED", "duration_s": 14.8}
+{"timestamp": "2026-10-02T17:40:04.615559+00:00", "event": "LAUNCH", "run_id": "main_attack_s19996_C2-ROTTEN-DYN_t1_34a6ca94", "block": 3, "seed": 19996, "original_seed": 19996, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:40:17.795168+00:00", "event": "FINISH", "run_id": "main_attack_s19996_C2-ROTTEN-DYN_t1_34a6ca94", "status": "COMPLETED", "duration_s": 13.2}
+{"timestamp": "2026-10-02T17:40:17.855400+00:00", "event": "LAUNCH", "run_id": "main_attack_s19996_C1-ROTTEN-ISO_t1_657cf546", "block": 3, "seed": 19996, "original_seed": 19996, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:40:30.413821+00:00", "event": "FINISH", "run_id": "main_attack_s19996_C1-ROTTEN-ISO_t1_657cf546", "status": "COMPLETED", "duration_s": 12.6}
+{"timestamp": "2026-10-02T17:40:30.474115+00:00", "event": "LAUNCH", "run_id": "main_attack_s19996_B0-CLEAN-ISO_t1_c60ef47c", "block": 3, "seed": 19996, "original_seed": 19996, "condition": "B0-CLEAN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:40:44.574528+00:00", "event": "FINISH", "run_id": "main_attack_s19996_B0-CLEAN-ISO_t1_c60ef47c", "status": "COMPLETED", "duration_s": 14.1}
+{"timestamp": "2026-10-02T17:40:44.623927+00:00", "event": "LAUNCH", "run_id": "main_attack_s48177_B1-CLEAN-DYN_t1_2a5f7786", "block": 4, "seed": 48177, "original_seed": 48177, "condition": "B1-CLEAN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:41:00.558991+00:00", "event": "FINISH", "run_id": "main_attack_s48177_B1-CLEAN-DYN_t1_2a5f7786", "status": "COMPLETED", "duration_s": 15.9}
+{"timestamp": "2026-10-02T17:41:00.596676+00:00", "event": "LAUNCH", "run_id": "main_attack_s48177_B0-CLEAN-ISO_t1_e48eb7af", "block": 4, "seed": 48177, "original_seed": 48177, "condition": "B0-CLEAN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:41:14.313027+00:00", "event": "FINISH", "run_id": "main_attack_s48177_B0-CLEAN-ISO_t1_e48eb7af", "status": "COMPLETED", "duration_s": 13.7}
+{"timestamp": "2026-10-02T17:41:14.371312+00:00", "event": "LAUNCH", "run_id": "main_attack_s48177_C2-ROTTEN-DYN_t1_185cf062", "block": 4, "seed": 48177, "original_seed": 48177, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:41:26.221117+00:00", "event": "FINISH", "run_id": "main_attack_s48177_C2-ROTTEN-DYN_t1_185cf062", "status": "COMPLETED", "duration_s": 11.8}
+{"timestamp": "2026-10-02T17:41:26.269097+00:00", "event": "LAUNCH", "run_id": "main_attack_s48177_C1-ROTTEN-ISO_t1_d6c5b224", "block": 4, "seed": 48177, "original_seed": 48177, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:41:38.486909+00:00", "event": "FINISH", "run_id": "main_attack_s48177_C1-ROTTEN-ISO_t1_d6c5b224", "status": "COMPLETED", "duration_s": 12.2}
+{"timestamp": "2026-10-02T17:41:38.540639+00:00", "event": "LAUNCH", "run_id": "main_attack_s89813_C1-ROTTEN-ISO_t1_797eeef5", "block": 5, "seed": 89813, "original_seed": 89813, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:41:51.671762+00:00", "event": "FINISH", "run_id": "main_attack_s89813_C1-ROTTEN-ISO_t1_797eeef5", "status": "COMPLETED", "duration_s": 13.1}
+{"timestamp": "2026-10-02T17:41:51.723405+00:00", "event": "LAUNCH", "run_id": "main_attack_s89813_B1-CLEAN-DYN_t1_9c696eb7", "block": 5, "seed": 89813, "original_seed": 89813, "condition": "B1-CLEAN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:42:07.326117+00:00", "event": "FINISH", "run_id": "main_attack_s89813_B1-CLEAN-DYN_t1_9c696eb7", "status": "COMPLETED", "duration_s": 15.6}
+{"timestamp": "2026-10-02T17:42:07.372669+00:00", "event": "LAUNCH", "run_id": "main_attack_s89813_B0-CLEAN-ISO_t1_3c842ac7", "block": 5, "seed": 89813, "original_seed": 89813, "condition": "B0-CLEAN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:42:21.860772+00:00", "event": "FINISH", "run_id": "main_attack_s89813_B0-CLEAN-ISO_t1_3c842ac7", "status": "COMPLETED", "duration_s": 14.5}
+{"timestamp": "2026-10-02T17:42:21.927314+00:00", "event": "LAUNCH", "run_id": "main_attack_s89813_C2-ROTTEN-DYN_t1_ac984755", "block": 5, "seed": 89813, "original_seed": 89813, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:42:34.462085+00:00", "event": "FINISH", "run_id": "main_attack_s89813_C2-ROTTEN-DYN_t1_ac984755", "status": "COMPLETED", "duration_s": 12.5}
+{"timestamp": "2026-10-02T17:42:34.519552+00:00", "event": "LAUNCH", "run_id": "main_attack_s91585_C2-ROTTEN-DYN_t1_507c97ac", "block": 6, "seed": 91585, "original_seed": 91585, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:42:47.172634+00:00", "event": "FINISH", "run_id": "main_attack_s91585_C2-ROTTEN-DYN_t1_507c97ac", "status": "COMPLETED", "duration_s": 12.7}
+{"timestamp": "2026-10-02T17:42:47.221609+00:00", "event": "LAUNCH", "run_id": "main_attack_s91585_C1-ROTTEN-ISO_t1_42cdb0f4", "block": 6, "seed": 91585, "original_seed": 91585, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:42:59.726558+00:00", "event": "FINISH", "run_id": "main_attack_s91585_C1-ROTTEN-ISO_t1_42cdb0f4", "status": "COMPLETED", "duration_s": 12.5}
+{"timestamp": "2026-10-02T17:42:59.759414+00:00", "event": "LAUNCH", "run_id": "main_attack_s91585_B1-CLEAN-DYN_t1_c8c4ae10", "block": 6, "seed": 91585, "original_seed": 91585, "condition": "B1-CLEAN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:43:15.739458+00:00", "event": "FINISH", "run_id": "main_attack_s91585_B1-CLEAN-DYN_t1_c8c4ae10", "status": "COMPLETED", "duration_s": 16.0}
+{"timestamp": "2026-10-02T17:43:15.793252+00:00", "event": "LAUNCH", "run_id": "main_attack_s91585_B0-CLEAN-ISO_t1_bda775aa", "block": 6, "seed": 91585, "original_seed": 91585, "condition": "B0-CLEAN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:43:30.658255+00:00", "event": "FINISH", "run_id": "main_attack_s91585_B0-CLEAN-ISO_t1_bda775aa", "status": "COMPLETED", "duration_s": 14.9}
+{"timestamp": "2026-10-02T17:43:30.717390+00:00", "event": "LAUNCH", "run_id": "main_attack_s83951_C1-ROTTEN-ISO_t1_d768e6c7", "block": 7, "seed": 83951, "original_seed": 83951, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:43:42.427594+00:00", "event": "FINISH", "run_id": "main_attack_s83951_C1-ROTTEN-ISO_t1_d768e6c7", "status": "COMPLETED", "duration_s": 11.7}
+{"timestamp": "2026-10-02T17:43:42.483212+00:00", "event": "LAUNCH", "run_id": "main_attack_s83951_C2-ROTTEN-DYN_t1_999dacbd", "block": 7, "seed": 83951, "original_seed": 83951, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:43:54.954498+00:00", "event": "FINISH", "run_id": "main_attack_s83951_C2-ROTTEN-DYN_t1_999dacbd", "status": "COMPLETED", "duration_s": 12.5}
+{"timestamp": "2026-10-02T17:43:55.015793+00:00", "event": "LAUNCH", "run_id": "main_attack_s83951_B0-CLEAN-ISO_t1_832b00f1", "block": 7, "seed": 83951, "original_seed": 83951, "condition": "B0-CLEAN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:44:10.153011+00:00", "event": "FINISH", "run_id": "main_attack_s83951_B0-CLEAN-ISO_t1_832b00f1", "status": "COMPLETED", "duration_s": 15.1}
+{"timestamp": "2026-10-02T17:44:10.178839+00:00", "event": "LAUNCH", "run_id": "main_attack_s83951_B1-CLEAN-DYN_t1_5c1bf9e2", "block": 7, "seed": 83951, "original_seed": 83951, "condition": "B1-CLEAN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:44:25.497092+00:00", "event": "FINISH", "run_id": "main_attack_s83951_B1-CLEAN-DYN_t1_5c1bf9e2", "status": "COMPLETED", "duration_s": 15.3}
+{"timestamp": "2026-10-02T17:44:25.556543+00:00", "event": "LAUNCH", "run_id": "main_attack_s23287_B1-CLEAN-DYN_t1_0e82a1a0", "block": 8, "seed": 23287, "original_seed": 23287, "condition": "B1-CLEAN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:44:40.430004+00:00", "event": "FINISH", "run_id": "main_attack_s23287_B1-CLEAN-DYN_t1_0e82a1a0", "status": "COMPLETED", "duration_s": 14.9}
+{"timestamp": "2026-10-02T17:44:40.478604+00:00", "event": "LAUNCH", "run_id": "main_attack_s23287_C1-ROTTEN-ISO_t1_388458ff", "block": 8, "seed": 23287, "original_seed": 23287, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:44:53.386440+00:00", "event": "FINISH", "run_id": "main_attack_s23287_C1-ROTTEN-ISO_t1_388458ff", "status": "COMPLETED", "duration_s": 12.9}
+{"timestamp": "2026-10-02T17:44:53.413577+00:00", "event": "LAUNCH", "run_id": "main_attack_s23287_B0-CLEAN-ISO_t1_dc1c480c", "block": 8, "seed": 23287, "original_seed": 23287, "condition": "B0-CLEAN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:45:07.383460+00:00", "event": "FINISH", "run_id": "main_attack_s23287_B0-CLEAN-ISO_t1_dc1c480c", "status": "COMPLETED", "duration_s": 14.0}
+{"timestamp": "2026-10-02T17:45:07.439329+00:00", "event": "LAUNCH", "run_id": "main_attack_s23287_C2-ROTTEN-DYN_t1_d9a2a6d1", "block": 8, "seed": 23287, "original_seed": 23287, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:45:24.582498+00:00", "event": "FINISH", "run_id": "main_attack_s23287_C2-ROTTEN-DYN_t1_d9a2a6d1", "status": "COMPLETED", "duration_s": 17.1}
+{"timestamp": "2026-10-02T17:45:24.630090+00:00", "event": "LAUNCH", "run_id": "main_attack_s46708_C2-ROTTEN-DYN_t1_84df0baa", "block": 9, "seed": 46708, "original_seed": 46708, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:45:37.316547+00:00", "event": "FINISH", "run_id": "main_attack_s46708_C2-ROTTEN-DYN_t1_84df0baa", "status": "COMPLETED", "duration_s": 12.7}
+{"timestamp": "2026-10-02T17:45:37.368294+00:00", "event": "LAUNCH", "run_id": "main_attack_s46708_B1-CLEAN-DYN_t1_449e52fa", "block": 9, "seed": 46708, "original_seed": 46708, "condition": "B1-CLEAN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:45:52.995095+00:00", "event": "FINISH", "run_id": "main_attack_s46708_B1-CLEAN-DYN_t1_449e52fa", "status": "COMPLETED", "duration_s": 15.6}
+{"timestamp": "2026-10-02T17:45:53.044383+00:00", "event": "LAUNCH", "run_id": "main_attack_s46708_C1-ROTTEN-ISO_t1_5b8374e0", "block": 9, "seed": 46708, "original_seed": 46708, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:46:06.053006+00:00", "event": "FINISH", "run_id": "main_attack_s46708_C1-ROTTEN-ISO_t1_5b8374e0", "status": "COMPLETED", "duration_s": 13.0}
+{"timestamp": "2026-10-02T17:46:06.082443+00:00", "event": "LAUNCH", "run_id": "main_attack_s46708_B0-CLEAN-ISO_t1_c2f9aba9", "block": 9, "seed": 46708, "original_seed": 46708, "condition": "B0-CLEAN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:46:21.320352+00:00", "event": "FINISH", "run_id": "main_attack_s46708_B0-CLEAN-ISO_t1_c2f9aba9", "status": "COMPLETED", "duration_s": 15.2}
+{"timestamp": "2026-10-02T17:46:21.353591+00:00", "event": "LAUNCH", "run_id": "main_attack_s26823_B0-CLEAN-ISO_t1_908e77dc", "block": 10, "seed": 26823, "original_seed": 26823, "condition": "B0-CLEAN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:46:35.563324+00:00", "event": "FINISH", "run_id": "main_attack_s26823_B0-CLEAN-ISO_t1_908e77dc", "status": "COMPLETED", "duration_s": 14.2}
+{"timestamp": "2026-10-02T17:46:35.618587+00:00", "event": "LAUNCH", "run_id": "main_attack_s26823_C1-ROTTEN-ISO_t1_15aec98f", "block": 10, "seed": 26823, "original_seed": 26823, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:46:49.140002+00:00", "event": "FINISH", "run_id": "main_attack_s26823_C1-ROTTEN-ISO_t1_15aec98f", "status": "COMPLETED", "duration_s": 13.5}
+{"timestamp": "2026-10-02T17:46:49.188564+00:00", "event": "LAUNCH", "run_id": "main_attack_s26823_B1-CLEAN-DYN_t1_60ff4cc4", "block": 10, "seed": 26823, "original_seed": 26823, "condition": "B1-CLEAN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:47:05.108956+00:00", "event": "FINISH", "run_id": "main_attack_s26823_B1-CLEAN-DYN_t1_60ff4cc4", "status": "COMPLETED", "duration_s": 15.9}
+{"timestamp": "2026-10-02T17:47:05.152586+00:00", "event": "LAUNCH", "run_id": "main_attack_s26823_C2-ROTTEN-DYN_t1_d947677a", "block": 10, "seed": 26823, "original_seed": 26823, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:47:18.372267+00:00", "event": "FINISH", "run_id": "main_attack_s26823_C2-ROTTEN-DYN_t1_d947677a", "status": "COMPLETED", "duration_s": 13.2}
+{"timestamp": "2026-10-02T17:47:18.423180+00:00", "event": "LAUNCH", "run_id": "main_attack_s75620_C1-ROTTEN-ISO_t1_3085e85e", "block": 11, "seed": 75620, "original_seed": 75620, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:47:30.307736+00:00", "event": "FINISH", "run_id": "main_attack_s75620_C1-ROTTEN-ISO_t1_3085e85e", "status": "COMPLETED", "duration_s": 11.9}
+{"timestamp": "2026-10-02T17:47:30.354379+00:00", "event": "LAUNCH", "run_id": "main_attack_s75620_C2-ROTTEN-DYN_t1_a7fc4022", "block": 11, "seed": 75620, "original_seed": 75620, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:47:43.056945+00:00", "event": "FINISH", "run_id": "main_attack_s75620_C2-ROTTEN-DYN_t1_a7fc4022", "status": "COMPLETED", "duration_s": 12.7}
+{"timestamp": "2026-10-02T17:47:43.108913+00:00", "event": "LAUNCH", "run_id": "main_attack_s82856_C2-ROTTEN-DYN_t1_049f3c2f", "block": 12, "seed": 82856, "original_seed": 82856, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:47:56.651198+00:00", "event": "FINISH", "run_id": "main_attack_s82856_C2-ROTTEN-DYN_t1_049f3c2f", "status": "COMPLETED", "duration_s": 13.5}
+{"timestamp": "2026-10-02T17:47:56.709352+00:00", "event": "LAUNCH", "run_id": "main_attack_s82856_C1-ROTTEN-ISO_t1_612dbed6", "block": 12, "seed": 82856, "original_seed": 82856, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:48:09.710338+00:00", "event": "FINISH", "run_id": "main_attack_s82856_C1-ROTTEN-ISO_t1_612dbed6", "status": "COMPLETED", "duration_s": 13.0}
+{"timestamp": "2026-10-02T17:48:09.769344+00:00", "event": "LAUNCH", "run_id": "main_attack_s23344_C2-ROTTEN-DYN_t1_83997be4", "block": 13, "seed": 23344, "original_seed": 23344, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:48:22.681695+00:00", "event": "FINISH", "run_id": "main_attack_s23344_C2-ROTTEN-DYN_t1_83997be4", "status": "COMPLETED", "duration_s": 12.9}
+{"timestamp": "2026-10-02T17:48:22.725451+00:00", "event": "LAUNCH", "run_id": "main_attack_s23344_C1-ROTTEN-ISO_t1_9cefc6ff", "block": 13, "seed": 23344, "original_seed": 23344, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:48:35.234875+00:00", "event": "FINISH", "run_id": "main_attack_s23344_C1-ROTTEN-ISO_t1_9cefc6ff", "status": "COMPLETED", "duration_s": 12.5}
+{"timestamp": "2026-10-02T17:48:35.271677+00:00", "event": "LAUNCH", "run_id": "main_attack_s23525_C1-ROTTEN-ISO_t1_09a81d9f", "block": 14, "seed": 23525, "original_seed": 23525, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:48:47.482518+00:00", "event": "FINISH", "run_id": "main_attack_s23525_C1-ROTTEN-ISO_t1_09a81d9f", "status": "COMPLETED", "duration_s": 12.2}
+{"timestamp": "2026-10-02T17:48:47.541059+00:00", "event": "LAUNCH", "run_id": "main_attack_s23525_C2-ROTTEN-DYN_t1_d579e5ca", "block": 14, "seed": 23525, "original_seed": 23525, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:48:59.762904+00:00", "event": "FINISH", "run_id": "main_attack_s23525_C2-ROTTEN-DYN_t1_d579e5ca", "status": "COMPLETED", "duration_s": 12.2}
+{"timestamp": "2026-10-02T17:48:59.833538+00:00", "event": "LAUNCH", "run_id": "main_attack_s72208_C2-ROTTEN-DYN_t1_5d5dc92f", "block": 15, "seed": 72208, "original_seed": 72208, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:49:13.646577+00:00", "event": "FINISH", "run_id": "main_attack_s72208_C2-ROTTEN-DYN_t1_5d5dc92f", "status": "COMPLETED", "duration_s": 13.8}
+{"timestamp": "2026-10-02T17:49:13.715672+00:00", "event": "LAUNCH", "run_id": "main_attack_s72208_C1-ROTTEN-ISO_t1_1471fd6c", "block": 15, "seed": 72208, "original_seed": 72208, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:49:26.676359+00:00", "event": "FINISH", "run_id": "main_attack_s72208_C1-ROTTEN-ISO_t1_1471fd6c", "status": "COMPLETED", "duration_s": 13.0}
+{"timestamp": "2026-10-02T17:49:26.739594+00:00", "event": "LAUNCH", "run_id": "main_attack_s10751_C1-ROTTEN-ISO_t1_53a374d1", "block": 16, "seed": 10751, "original_seed": 10751, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:49:39.139119+00:00", "event": "FINISH", "run_id": "main_attack_s10751_C1-ROTTEN-ISO_t1_53a374d1", "status": "COMPLETED", "duration_s": 12.4}
+{"timestamp": "2026-10-02T17:49:39.200912+00:00", "event": "LAUNCH", "run_id": "main_attack_s10751_C2-ROTTEN-DYN_t1_20803b29", "block": 16, "seed": 10751, "original_seed": 10751, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:49:52.053918+00:00", "event": "FINISH", "run_id": "main_attack_s10751_C2-ROTTEN-DYN_t1_20803b29", "status": "COMPLETED", "duration_s": 12.9}
+{"timestamp": "2026-10-02T17:49:52.111597+00:00", "event": "LAUNCH", "run_id": "main_attack_s92842_C2-ROTTEN-DYN_t1_eab308c3", "block": 17, "seed": 92842, "original_seed": 92842, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:50:05.566638+00:00", "event": "FINISH", "run_id": "main_attack_s92842_C2-ROTTEN-DYN_t1_eab308c3", "status": "COMPLETED", "duration_s": 13.5}
+{"timestamp": "2026-10-02T17:50:05.624082+00:00", "event": "LAUNCH", "run_id": "main_attack_s92842_C1-ROTTEN-ISO_t1_36a4bbe3", "block": 17, "seed": 92842, "original_seed": 92842, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:50:18.969658+00:00", "event": "FINISH", "run_id": "main_attack_s92842_C1-ROTTEN-ISO_t1_36a4bbe3", "status": "COMPLETED", "duration_s": 13.3}
+{"timestamp": "2026-10-02T17:50:19.019454+00:00", "event": "LAUNCH", "run_id": "main_attack_s34963_C1-ROTTEN-ISO_t1_a06ea85c", "block": 18, "seed": 34963, "original_seed": 34963, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:50:31.290312+00:00", "event": "FINISH", "run_id": "main_attack_s34963_C1-ROTTEN-ISO_t1_a06ea85c", "status": "COMPLETED", "duration_s": 12.3}
+{"timestamp": "2026-10-02T17:50:31.326735+00:00", "event": "LAUNCH", "run_id": "main_attack_s34963_C2-ROTTEN-DYN_t1_260e1cca", "block": 18, "seed": 34963, "original_seed": 34963, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:50:43.883219+00:00", "event": "FINISH", "run_id": "main_attack_s34963_C2-ROTTEN-DYN_t1_260e1cca", "status": "COMPLETED", "duration_s": 12.6}
+{"timestamp": "2026-10-02T17:50:43.945088+00:00", "event": "LAUNCH", "run_id": "main_attack_s25698_C2-ROTTEN-DYN_t1_d36d1e56", "block": 19, "seed": 25698, "original_seed": 25698, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:50:56.376768+00:00", "event": "FINISH", "run_id": "main_attack_s25698_C2-ROTTEN-DYN_t1_d36d1e56", "status": "COMPLETED", "duration_s": 12.4}
+{"timestamp": "2026-10-02T17:50:56.446895+00:00", "event": "LAUNCH", "run_id": "main_attack_s25698_C1-ROTTEN-ISO_t1_5ce74eb2", "block": 19, "seed": 25698, "original_seed": 25698, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:51:09.752770+00:00", "event": "FINISH", "run_id": "main_attack_s25698_C1-ROTTEN-ISO_t1_5ce74eb2", "status": "COMPLETED", "duration_s": 13.3}
+{"timestamp": "2026-10-02T17:51:09.791367+00:00", "event": "LAUNCH", "run_id": "main_attack_s81041_C1-ROTTEN-ISO_t1_dd7b34a8", "block": 20, "seed": 81041, "original_seed": 81041, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:51:23.494043+00:00", "event": "FINISH", "run_id": "main_attack_s81041_C1-ROTTEN-ISO_t1_dd7b34a8", "status": "COMPLETED", "duration_s": 13.7}
+{"timestamp": "2026-10-02T17:51:23.569553+00:00", "event": "LAUNCH", "run_id": "main_attack_s81041_C2-ROTTEN-DYN_t1_f472bc8f", "block": 20, "seed": 81041, "original_seed": 81041, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:51:37.320508+00:00", "event": "FINISH", "run_id": "main_attack_s81041_C2-ROTTEN-DYN_t1_f472bc8f", "status": "COMPLETED", "duration_s": 13.8}
+{"timestamp": "2026-10-02T17:51:37.384830+00:00", "event": "LAUNCH", "run_id": "main_attack_s31775_C2-ROTTEN-DYN_t1_ba74fce2", "block": 21, "seed": 31775, "original_seed": 31775, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:51:49.887956+00:00", "event": "FINISH", "run_id": "main_attack_s31775_C2-ROTTEN-DYN_t1_ba74fce2", "status": "COMPLETED", "duration_s": 12.5}
+{"timestamp": "2026-10-02T17:51:49.962836+00:00", "event": "LAUNCH", "run_id": "main_attack_s31775_C1-ROTTEN-ISO_t1_569f3b62", "block": 21, "seed": 31775, "original_seed": 31775, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:52:02.077172+00:00", "event": "FINISH", "run_id": "main_attack_s31775_C1-ROTTEN-ISO_t1_569f3b62", "status": "COMPLETED", "duration_s": 12.1}
+{"timestamp": "2026-10-02T17:52:02.131241+00:00", "event": "LAUNCH", "run_id": "main_attack_s33076_C1-ROTTEN-ISO_t1_fcf542de", "block": 22, "seed": 33076, "original_seed": 33076, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:52:14.517168+00:00", "event": "FINISH", "run_id": "main_attack_s33076_C1-ROTTEN-ISO_t1_fcf542de", "status": "COMPLETED", "duration_s": 12.4}
+{"timestamp": "2026-10-02T17:52:14.555051+00:00", "event": "LAUNCH", "run_id": "main_attack_s33076_C2-ROTTEN-DYN_t1_86be0400", "block": 22, "seed": 33076, "original_seed": 33076, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:52:26.962527+00:00", "event": "FINISH", "run_id": "main_attack_s33076_C2-ROTTEN-DYN_t1_86be0400", "status": "COMPLETED", "duration_s": 12.4}
+{"timestamp": "2026-10-02T17:52:27.005003+00:00", "event": "LAUNCH", "run_id": "main_attack_s24409_C2-ROTTEN-DYN_t1_396c3cfc", "block": 23, "seed": 24409, "original_seed": 24409, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:52:38.972669+00:00", "event": "FINISH", "run_id": "main_attack_s24409_C2-ROTTEN-DYN_t1_396c3cfc", "status": "COMPLETED", "duration_s": 12.0}
+{"timestamp": "2026-10-02T17:52:39.027821+00:00", "event": "LAUNCH", "run_id": "main_attack_s24409_C1-ROTTEN-ISO_t1_e0464428", "block": 23, "seed": 24409, "original_seed": 24409, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:52:50.671125+00:00", "event": "FINISH", "run_id": "main_attack_s24409_C1-ROTTEN-ISO_t1_e0464428", "status": "COMPLETED", "duration_s": 11.6}
+{"timestamp": "2026-10-02T17:52:50.728020+00:00", "event": "LAUNCH", "run_id": "main_attack_s51364_C2-ROTTEN-DYN_t1_02064305", "block": 24, "seed": 51364, "original_seed": 51364, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:53:03.118917+00:00", "event": "FINISH", "run_id": "main_attack_s51364_C2-ROTTEN-DYN_t1_02064305", "status": "COMPLETED", "duration_s": 12.4}
+{"timestamp": "2026-10-02T17:53:03.196792+00:00", "event": "LAUNCH", "run_id": "main_attack_s51364_C1-ROTTEN-ISO_t1_30626cfe", "block": 24, "seed": 51364, "original_seed": 51364, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:53:16.240003+00:00", "event": "FINISH", "run_id": "main_attack_s51364_C1-ROTTEN-ISO_t1_30626cfe", "status": "COMPLETED", "duration_s": 13.0}
+{"timestamp": "2026-10-02T17:53:16.294449+00:00", "event": "LAUNCH", "run_id": "main_attack_s35830_C2-ROTTEN-DYN_t1_d4a3a5ae", "block": 25, "seed": 35830, "original_seed": 35830, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:53:29.300917+00:00", "event": "FINISH", "run_id": "main_attack_s35830_C2-ROTTEN-DYN_t1_d4a3a5ae", "status": "COMPLETED", "duration_s": 13.0}
+{"timestamp": "2026-10-02T17:53:29.368069+00:00", "event": "LAUNCH", "run_id": "main_attack_s35830_C1-ROTTEN-ISO_t1_70a16058", "block": 25, "seed": 35830, "original_seed": 35830, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:53:41.534882+00:00", "event": "FINISH", "run_id": "main_attack_s35830_C1-ROTTEN-ISO_t1_70a16058", "status": "COMPLETED", "duration_s": 12.2}
+{"timestamp": "2026-10-02T17:53:41.589999+00:00", "event": "LAUNCH", "run_id": "main_attack_s57524_C1-ROTTEN-ISO_t1_fd1eb4f1", "block": 26, "seed": 57524, "original_seed": 57524, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:53:54.137080+00:00", "event": "FINISH", "run_id": "main_attack_s57524_C1-ROTTEN-ISO_t1_fd1eb4f1", "status": "COMPLETED", "duration_s": 12.5}
+{"timestamp": "2026-10-02T17:53:54.180547+00:00", "event": "LAUNCH", "run_id": "main_attack_s57524_C2-ROTTEN-DYN_t1_633ad8fe", "block": 26, "seed": 57524, "original_seed": 57524, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:54:07.104418+00:00", "event": "FINISH", "run_id": "main_attack_s57524_C2-ROTTEN-DYN_t1_633ad8fe", "status": "COMPLETED", "duration_s": 12.9}
+{"timestamp": "2026-10-02T17:54:07.145481+00:00", "event": "LAUNCH", "run_id": "main_attack_s88674_C2-ROTTEN-DYN_t1_073b016f", "block": 27, "seed": 88674, "original_seed": 88674, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:54:19.841040+00:00", "event": "FINISH", "run_id": "main_attack_s88674_C2-ROTTEN-DYN_t1_073b016f", "status": "COMPLETED", "duration_s": 12.7}
+{"timestamp": "2026-10-02T17:54:19.914334+00:00", "event": "LAUNCH", "run_id": "main_attack_s88674_C1-ROTTEN-ISO_t1_fb0fa941", "block": 27, "seed": 88674, "original_seed": 88674, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:54:32.412879+00:00", "event": "FINISH", "run_id": "main_attack_s88674_C1-ROTTEN-ISO_t1_fb0fa941", "status": "COMPLETED", "duration_s": 12.5}
+{"timestamp": "2026-10-02T17:54:32.487022+00:00", "event": "LAUNCH", "run_id": "main_attack_s73360_C1-ROTTEN-ISO_t1_38547ca8", "block": 28, "seed": 73360, "original_seed": 73360, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:54:45.042595+00:00", "event": "FINISH", "run_id": "main_attack_s73360_C1-ROTTEN-ISO_t1_38547ca8", "status": "COMPLETED", "duration_s": 12.6}
+{"timestamp": "2026-10-02T17:54:45.120780+00:00", "event": "LAUNCH", "run_id": "main_attack_s73360_C2-ROTTEN-DYN_t1_d679e13c", "block": 28, "seed": 73360, "original_seed": 73360, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:55:01.491710+00:00", "event": "FINISH", "run_id": "main_attack_s73360_C2-ROTTEN-DYN_t1_d679e13c", "status": "COMPLETED", "duration_s": 16.4}
+{"timestamp": "2026-10-02T17:55:01.533192+00:00", "event": "LAUNCH", "run_id": "main_attack_s40747_C2-ROTTEN-DYN_t1_db3bcb8f", "block": 29, "seed": 40747, "original_seed": 40747, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:55:13.340858+00:00", "event": "FINISH", "run_id": "main_attack_s40747_C2-ROTTEN-DYN_t1_db3bcb8f", "status": "COMPLETED", "duration_s": 11.8}
+{"timestamp": "2026-10-02T17:55:13.384671+00:00", "event": "LAUNCH", "run_id": "main_attack_s40747_C1-ROTTEN-ISO_t1_7e2d4e76", "block": 29, "seed": 40747, "original_seed": 40747, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:55:26.090668+00:00", "event": "FINISH", "run_id": "main_attack_s40747_C1-ROTTEN-ISO_t1_7e2d4e76", "status": "COMPLETED", "duration_s": 12.7}
+{"timestamp": "2026-10-02T17:55:26.134224+00:00", "event": "LAUNCH", "run_id": "main_attack_s10348_C2-ROTTEN-DYN_t1_91e90c8f", "block": 30, "seed": 10348, "original_seed": 10348, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:55:39.232880+00:00", "event": "FINISH", "run_id": "main_attack_s10348_C2-ROTTEN-DYN_t1_91e90c8f", "status": "COMPLETED", "duration_s": 13.1}
+{"timestamp": "2026-10-02T17:55:39.308968+00:00", "event": "LAUNCH", "run_id": "main_attack_s10348_C1-ROTTEN-ISO_t1_8ac263ea", "block": 30, "seed": 10348, "original_seed": 10348, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:55:51.848055+00:00", "event": "FINISH", "run_id": "main_attack_s10348_C1-ROTTEN-ISO_t1_8ac263ea", "status": "COMPLETED", "duration_s": 12.5}
+{"timestamp": "2026-10-02T17:55:51.926052+00:00", "event": "LAUNCH", "run_id": "main_attack_s83921_C1-ROTTEN-ISO_t1_c2dccbcf", "block": 31, "seed": 83921, "original_seed": 83921, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:56:04.543569+00:00", "event": "FINISH", "run_id": "main_attack_s83921_C1-ROTTEN-ISO_t1_c2dccbcf", "status": "COMPLETED", "duration_s": 12.6}
+{"timestamp": "2026-10-02T17:56:04.588757+00:00", "event": "LAUNCH", "run_id": "main_attack_s83921_C2-ROTTEN-DYN_t1_20b9f4a2", "block": 31, "seed": 83921, "original_seed": 83921, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:56:21.467514+00:00", "event": "FINISH", "run_id": "main_attack_s83921_C2-ROTTEN-DYN_t1_20b9f4a2", "status": "COMPLETED", "duration_s": 16.9}
+{"timestamp": "2026-10-02T17:56:21.537393+00:00", "event": "LAUNCH", "run_id": "main_attack_s54258_C2-ROTTEN-DYN_t1_30ab9563", "block": 32, "seed": 54258, "original_seed": 54258, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:56:34.871258+00:00", "event": "FINISH", "run_id": "main_attack_s54258_C2-ROTTEN-DYN_t1_30ab9563", "status": "COMPLETED", "duration_s": 13.3}
+{"timestamp": "2026-10-02T17:56:34.918002+00:00", "event": "LAUNCH", "run_id": "main_attack_s54258_C1-ROTTEN-ISO_t1_a9b75d5b", "block": 32, "seed": 54258, "original_seed": 54258, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:56:48.813332+00:00", "event": "FINISH", "run_id": "main_attack_s54258_C1-ROTTEN-ISO_t1_a9b75d5b", "status": "COMPLETED", "duration_s": 13.9}
+{"timestamp": "2026-10-02T17:56:48.861726+00:00", "event": "LAUNCH", "run_id": "main_attack_s44762_C2-ROTTEN-DYN_t1_74348947", "block": 33, "seed": 44762, "original_seed": 44762, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:57:01.124324+00:00", "event": "FINISH", "run_id": "main_attack_s44762_C2-ROTTEN-DYN_t1_74348947", "status": "COMPLETED", "duration_s": 12.3}
+{"timestamp": "2026-10-02T17:57:01.172902+00:00", "event": "LAUNCH", "run_id": "main_attack_s44762_C1-ROTTEN-ISO_t1_8d83bf08", "block": 33, "seed": 44762, "original_seed": 44762, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:57:13.289099+00:00", "event": "FINISH", "run_id": "main_attack_s44762_C1-ROTTEN-ISO_t1_8d83bf08", "status": "COMPLETED", "duration_s": 12.1}
+{"timestamp": "2026-10-02T17:57:13.366606+00:00", "event": "LAUNCH", "run_id": "main_attack_s81514_C2-ROTTEN-DYN_t1_470b988e", "block": 34, "seed": 81514, "original_seed": 81514, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:57:26.181875+00:00", "event": "FINISH", "run_id": "main_attack_s81514_C2-ROTTEN-DYN_t1_470b988e", "status": "COMPLETED", "duration_s": 12.8}
+{"timestamp": "2026-10-02T17:57:26.253908+00:00", "event": "LAUNCH", "run_id": "main_attack_s81514_C1-ROTTEN-ISO_t1_09efa62a", "block": 34, "seed": 81514, "original_seed": 81514, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:57:39.215635+00:00", "event": "FINISH", "run_id": "main_attack_s81514_C1-ROTTEN-ISO_t1_09efa62a", "status": "COMPLETED", "duration_s": 13.0}
+{"timestamp": "2026-10-02T17:57:39.293466+00:00", "event": "LAUNCH", "run_id": "main_attack_s96328_C2-ROTTEN-DYN_t1_581c5a3f", "block": 35, "seed": 96328, "original_seed": 96328, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:57:56.181480+00:00", "event": "FINISH", "run_id": "main_attack_s96328_C2-ROTTEN-DYN_t1_581c5a3f", "status": "COMPLETED", "duration_s": 16.9}
+{"timestamp": "2026-10-02T17:57:56.251965+00:00", "event": "LAUNCH", "run_id": "main_attack_s96328_C1-ROTTEN-ISO_t1_f9a78510", "block": 35, "seed": 96328, "original_seed": 96328, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:58:09.703847+00:00", "event": "FINISH", "run_id": "main_attack_s96328_C1-ROTTEN-ISO_t1_f9a78510", "status": "COMPLETED", "duration_s": 13.5}
+{"timestamp": "2026-10-02T17:58:09.751837+00:00", "event": "LAUNCH", "run_id": "main_attack_s16203_C1-ROTTEN-ISO_t1_bb195d1c", "block": 36, "seed": 16203, "original_seed": 16203, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:58:22.440654+00:00", "event": "FINISH", "run_id": "main_attack_s16203_C1-ROTTEN-ISO_t1_bb195d1c", "status": "COMPLETED", "duration_s": 12.7}
+{"timestamp": "2026-10-02T17:58:22.513860+00:00", "event": "LAUNCH", "run_id": "main_attack_s16203_C2-ROTTEN-DYN_t1_50f2be41", "block": 36, "seed": 16203, "original_seed": 16203, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:58:36.999569+00:00", "event": "FINISH", "run_id": "main_attack_s16203_C2-ROTTEN-DYN_t1_50f2be41", "status": "COMPLETED", "duration_s": 14.5}
+{"timestamp": "2026-10-02T17:58:37.075420+00:00", "event": "LAUNCH", "run_id": "main_attack_s37978_C2-ROTTEN-DYN_t1_d7f28194", "block": 37, "seed": 37978, "original_seed": 37978, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:58:50.333383+00:00", "event": "FINISH", "run_id": "main_attack_s37978_C2-ROTTEN-DYN_t1_d7f28194", "status": "COMPLETED", "duration_s": 13.3}
+{"timestamp": "2026-10-02T17:58:50.395737+00:00", "event": "LAUNCH", "run_id": "main_attack_s37978_C1-ROTTEN-ISO_t1_3e0b55e9", "block": 37, "seed": 37978, "original_seed": 37978, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:59:03.829538+00:00", "event": "FINISH", "run_id": "main_attack_s37978_C1-ROTTEN-ISO_t1_3e0b55e9", "status": "COMPLETED", "duration_s": 13.4}
+{"timestamp": "2026-10-02T17:59:03.897382+00:00", "event": "LAUNCH", "run_id": "main_attack_s81660_C2-ROTTEN-DYN_t1_58b76699", "block": 38, "seed": 81660, "original_seed": 81660, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:59:17.189334+00:00", "event": "FINISH", "run_id": "main_attack_s81660_C2-ROTTEN-DYN_t1_58b76699", "status": "COMPLETED", "duration_s": 13.3}
+{"timestamp": "2026-10-02T17:59:17.268564+00:00", "event": "LAUNCH", "run_id": "main_attack_s81660_C1-ROTTEN-ISO_t1_b050b5ba", "block": 38, "seed": 81660, "original_seed": 81660, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:59:30.716495+00:00", "event": "FINISH", "run_id": "main_attack_s81660_C1-ROTTEN-ISO_t1_b050b5ba", "status": "COMPLETED", "duration_s": 13.4}
+{"timestamp": "2026-10-02T17:59:30.836178+00:00", "event": "LAUNCH", "run_id": "main_attack_s17608_C2-ROTTEN-DYN_t1_bbd4b13c", "block": 39, "seed": 17608, "original_seed": 17608, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T17:59:46.667038+00:00", "event": "FINISH", "run_id": "main_attack_s17608_C2-ROTTEN-DYN_t1_bbd4b13c", "status": "COMPLETED", "duration_s": 15.8}
+{"timestamp": "2026-10-02T17:59:46.780766+00:00", "event": "LAUNCH", "run_id": "main_attack_s17608_C1-ROTTEN-ISO_t1_5b99ef34", "block": 39, "seed": 17608, "original_seed": 17608, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T17:59:59.922622+00:00", "event": "FINISH", "run_id": "main_attack_s17608_C1-ROTTEN-ISO_t1_5b99ef34", "status": "COMPLETED", "duration_s": 13.1}
+{"timestamp": "2026-10-02T17:59:59.973745+00:00", "event": "LAUNCH", "run_id": "main_attack_s16345_C1-ROTTEN-ISO_t1_9d8476db", "block": 40, "seed": 16345, "original_seed": 16345, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T18:00:12.414917+00:00", "event": "FINISH", "run_id": "main_attack_s16345_C1-ROTTEN-ISO_t1_9d8476db", "status": "COMPLETED", "duration_s": 12.4}
+{"timestamp": "2026-10-02T18:00:12.486989+00:00", "event": "LAUNCH", "run_id": "main_attack_s16345_C2-ROTTEN-DYN_t1_d342c8c0", "block": 40, "seed": 16345, "original_seed": 16345, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T18:00:24.169925+00:00", "event": "FINISH", "run_id": "main_attack_s16345_C2-ROTTEN-DYN_t1_d342c8c0", "status": "COMPLETED", "duration_s": 11.7}

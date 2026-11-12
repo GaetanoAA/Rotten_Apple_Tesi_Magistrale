@@ -1,0 +1,647 @@
+{
+  "plan_version": 1,
+  "status": "mitigazione esplorativa (difesa root-aware P_root sulla configurazione del follow-up); da congelare prima della prova tecnica",
+  "phase": "mitigation_attack",
+  "seed_generation": {
+    "method": "random.Random(20261016).sample(range(10000, 100000), 51): primi 40 seed primari, successivi 10 riserve, ultimo seed della prova tecnica",
+    "condition_order_method": "un solo random.Random(20261017); per ogni blocco, in ordine, shuffle di [C1N, C4N, C3N]",
+    "excluded_seeds": [
+      42,
+      1001,
+      1002,
+      1003,
+      1004,
+      1005,
+      10186,
+      10336,
+      10348,
+      10740,
+      10751,
+      11035,
+      11570,
+      11777,
+      12103,
+      12208,
+      13454,
+      14442,
+      14807,
+      15126,
+      15233,
+      15528,
+      15654,
+      16203,
+      16298,
+      16316,
+      16345,
+      16583,
+      16611,
+      17585,
+      17608,
+      17686,
+      17856,
+      18199,
+      18983,
+      18994,
+      19411,
+      19751,
+      19788,
+      19996,
+      20902,
+      20920,
+      21159,
+      21421,
+      21524,
+      21783,
+      22125,
+      22277,
+      22435,
+      22810,
+      23287,
+      23344,
+      23525,
+      24169,
+      24348,
+      24409,
+      24539,
+      24987,
+      25022,
+      25030,
+      25698,
+      25808,
+      26584,
+      26746,
+      26823,
+      27352,
+      27811,
+      28549,
+      29599,
+      29966,
+      31100,
+      31775,
+      31799,
+      32333,
+      32386,
+      32757,
+      32917,
+      33076,
+      33577,
+      34963,
+      35186,
+      35830,
+      36318,
+      37275,
+      37956,
+      37978,
+      38073,
+      38263,
+      39173,
+      39942,
+      40137,
+      40539,
+      40560,
+      40747,
+      40998,
+      43260,
+      43701,
+      44551,
+      44762,
+      44903,
+      44968,
+      45432,
+      45660,
+      46223,
+      46299,
+      46708,
+      47497,
+      47859,
+      48114,
+      48156,
+      48177,
+      48323,
+      48331,
+      48621,
+      48749,
+      49196,
+      50701,
+      51182,
+      51223,
+      51364,
+      51389,
+      51475,
+      51763,
+      51874,
+      52103,
+      52858,
+      52937,
+      53173,
+      53351,
+      53993,
+      54140,
+      54258,
+      54936,
+      55235,
+      55900,
+      56304,
+      56466,
+      56487,
+      56750,
+      56914,
+      57524,
+      58489,
+      58557,
+      59606,
+      59957,
+      60045,
+      60683,
+      61235,
+      61367,
+      61474,
+      61615,
+      61619,
+      61740,
+      62612,
+      62813,
+      63130,
+      63195,
+      63297,
+      64896,
+      65309,
+      66679,
+      66951,
+      67162,
+      67336,
+      67776,
+      68051,
+      68629,
+      68971,
+      69105,
+      69399,
+      69557,
+      69573,
+      69999,
+      72208,
+      72522,
+      73121,
+      73360,
+      75335,
+      75620,
+      75960,
+      76574,
+      76984,
+      77148,
+      77261,
+      77730,
+      78975,
+      79612,
+      80728,
+      80953,
+      81041,
+      81252,
+      81477,
+      81514,
+      81516,
+      81570,
+      81649,
+      81660,
+      81936,
+      82856,
+      82915,
+      83369,
+      83535,
+      83647,
+      83921,
+      83951,
+      83974,
+      84543,
+      85386,
+      86496,
+      87468,
+      87971,
+      88674,
+      88921,
+      89284,
+      89601,
+      89802,
+      89813,
+      90140,
+      90295,
+      91229,
+      91585,
+      91938,
+      92112,
+      92180,
+      92842,
+      92978,
+      93130,
+      93776,
+      94183,
+      95294,
+      95605,
+      95970,
+      96328,
+      96620,
+      96781,
+      97660,
+      98241,
+      98784,
+      98802,
+      99083,
+      99314
+    ]
+  },
+  "model": {
+    "name": "llama3.1:8b-instruct-q4_K_M",
+    "digest": "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e",
+    "ollama_server_version": "0.35.0"
+  },
+  "timeouts": {
+    "per_call_seconds": 1200,
+    "per_run_seconds": 5400
+  },
+  "max_technical_reruns_per_run": 2,
+  "smoke": {
+    "phase": "mitigation_smoke",
+    "seed": 76787,
+    "conditions": [
+      "C1N-ROTTEN-ISO-NOIMP",
+      "C4N-ROTTEN-MULTI-NOIMP",
+      "C3N-ROTTEN-PROV-NOIMP"
+    ],
+    "note": "solo verifica tecnica, mai inclusa nelle analisi"
+  },
+  "blocks": [
+    {
+      "block": 1,
+      "seed": 27484,
+      "order": [
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 2,
+      "seed": 83490,
+      "order": [
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 3,
+      "seed": 77475,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP"
+      ]
+    },
+    {
+      "block": 4,
+      "seed": 97023,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 5,
+      "seed": 99270,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP"
+      ]
+    },
+    {
+      "block": 6,
+      "seed": 63767,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 7,
+      "seed": 81795,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP"
+      ]
+    },
+    {
+      "block": 8,
+      "seed": 48857,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 9,
+      "seed": 68202,
+      "order": [
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 10,
+      "seed": 32831,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 11,
+      "seed": 22915,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP"
+      ]
+    },
+    {
+      "block": 12,
+      "seed": 86874,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP"
+      ]
+    },
+    {
+      "block": 13,
+      "seed": 78991,
+      "order": [
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 14,
+      "seed": 40230,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 15,
+      "seed": 79489,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 16,
+      "seed": 45276,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 17,
+      "seed": 16956,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 18,
+      "seed": 31792,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 19,
+      "seed": 92262,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 20,
+      "seed": 93010,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 21,
+      "seed": 94302,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 22,
+      "seed": 95994,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 23,
+      "seed": 18055,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 24,
+      "seed": 10423,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP"
+      ]
+    },
+    {
+      "block": 25,
+      "seed": 88860,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP"
+      ]
+    },
+    {
+      "block": 26,
+      "seed": 71878,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 27,
+      "seed": 56915,
+      "order": [
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 28,
+      "seed": 83844,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP"
+      ]
+    },
+    {
+      "block": 29,
+      "seed": 63717,
+      "order": [
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 30,
+      "seed": 97078,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 31,
+      "seed": 94082,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP"
+      ]
+    },
+    {
+      "block": 32,
+      "seed": 93041,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 33,
+      "seed": 57152,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP"
+      ]
+    },
+    {
+      "block": 34,
+      "seed": 87582,
+      "order": [
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 35,
+      "seed": 61694,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 36,
+      "seed": 71125,
+      "order": [
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 37,
+      "seed": 25795,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 38,
+      "seed": 66502,
+      "order": [
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 39,
+      "seed": 93451,
+      "order": [
+        "C3N-ROTTEN-PROV-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 40,
+      "seed": 65134,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C3N-ROTTEN-PROV-NOIMP"
+      ]
+    }
+  ],
+  "reserve_seeds": [
+    55513,
+    17913,
+    75648,
+    89159,
+    40339,
+    96623,
+    13705,
+    72250,
+    39263,
+    82872
+  ],
+  "reserve_rule": "Un seed di riserva sostituisce un blocco intero, ne eredita condizioni e ordine; si usano in ordine, solo per guasto tecnico."
+}

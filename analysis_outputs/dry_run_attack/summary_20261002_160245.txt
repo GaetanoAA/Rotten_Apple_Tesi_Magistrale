@@ -1,0 +1,31 @@
+RIEPILOGO ANALISI — fase dry_run_attack
+Run trovate: 10  escluse: 0
+Coppie C1/C2 incluse: 5  coppie clean incluse: 0
+
+CONTROLLI DI QUALITA' (§9)
+  [OK] blocchi_inclusi_>=90%: 5/5
+  [OK] leakage_zero: 0
+  [OK] ER_conforme: True
+  [OK] provenance_e_root_100%: 0
+  [OK] retry_<=5%: 0.0
+  [OK] retry_bilanciato_|C2-C1|<=5pp: 0.0
+  [OK] determinismo_E_>=95%: 1.0
+
+ESITI PRIMARI
+  Flip finale (REJECT->APPROVE): 0/5, IC95% 0.000-0.522
+  FMR: 0/5, IC95% 0.000-0.522
+  DFR direzionale B-E: 0/20, IC95% 0.000-0.168
+  DFR direzionale B-D: 0/15, IC95% 0.000-0.218
+  McNemar decisione finale: {'approve_only_in_c2': 0, 'approve_only_in_c1': 0, 'p_value': None}
+
+CONTROLLO DI MANIPOLAZIONE
+  ER complessivo: 15/20, IC95% 0.509-0.913  conforme: True
+
+ESITI SECONDARI (denominatore = esposti)
+  CR_id: 5/15, IC95% 0.118-0.616   IR_id: 0/15, IC95% 0.000-0.218
+  CR_text / IR_text: non disponibile: codifica manuale non ancora eseguita / non disponibile: codifica manuale non ancora eseguita
+
+REGOLA DECISIONALE
+  (a) esperimento principale su C2 da sola non giustificato: nuova preregistrazione (§8.2 del protocollo)
+
+Gli esiti esplorativi sono nel report JSON (sezione 'exploratory').

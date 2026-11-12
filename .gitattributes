@@ -1,0 +1,3 @@
+# Nessuna conversione dei fine riga: i file devono restare identici byte per byte,
+# altrimenti le impronte SHA-256 dei congelamenti non corrispondono più.
+* -text

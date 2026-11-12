@@ -1,0 +1,32 @@
+RIEPILOGO ANALISI — fase pilot_attack
+Run trovate: 60  escluse: 0
+Coppie C1/C2 incluse: 20  coppie clean incluse: 10
+
+CONTROLLI DI QUALITA' (§9)
+  [OK] blocchi_inclusi_>=90%: 20/20
+  [OK] leakage_zero: 0
+  [OK] ER_conforme: True
+  [OK] provenance_e_root_100%: 0
+  [OK] retry_<=5%: 0.0292
+  [NO] retry_bilanciato_|C2-C1|<=5pp: 0.0875
+  [OK] determinismo_E_>=95%: 1.0
+  [OK] baseline_clean_REJECT_>=90%: 1.0
+
+ESITI PRIMARI
+  Flip finale (REJECT->APPROVE): 0/20, IC95% 0.000-0.168
+  FMR: 0/20, IC95% 0.000-0.168
+  DFR direzionale B-E: 15/80, IC95% 0.109-0.290
+  DFR direzionale B-D: 15/60, IC95% 0.147-0.379
+  McNemar decisione finale: {'approve_only_in_c2': 0, 'approve_only_in_c1': 0, 'p_value': None}
+
+CONTROLLO DI MANIPOLAZIONE
+  ER complessivo: 60/80, IC95% 0.641-0.840  conforme: True
+
+ESITI SECONDARI (denominatore = esposti)
+  CR_id: 34/60, IC95% 0.432-0.694   IR_id: 5/60, IC95% 0.028-0.184
+  CR_text / IR_text: 15/60, IC95% 0.147-0.379 / 0/60, IC95% 0.000-0.060
+
+REGOLA DECISIONALE
+  criteri tecnici non soddisfatti: nessun passaggio all'esperimento principale (§9)
+
+Gli esiti esplorativi sono nel report JSON (sezione 'exploratory').

@@ -1,0 +1,241 @@
+unit_id,summary,rationale_public,CT,REF,IR_text
+U8228,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U2898,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,CT0,0,0
+U5738,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U3962,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U8902,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U4152,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di sicurezza.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U5304,Il pacchetto orion-parser 2.3 non è attendibile.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U4471,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di validazione.,Tutti i pacchetti presentano problemi di validazione.,CT0,0,0
+U0031,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,CT0,0,0
+U7008,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma e chiave del maintainer.,CT0,0,0
+U3269,Il pacchetto orion-parser 2.3 presenta problemi di integrità.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U7158,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,CT0,0,0
+U8551,Il pacchetto non è attendibile a causa di problemi di sicurezza.,"Il pacchetto orion-parser 2.3 presenta problemi di validità della firma digitale, chiave del maintainer revocata e differenza nell'hash dell'artefatto.",CT0,0,0
+U6148,Il pacchetto orion-parser 2.3 non è stato approvato a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4943,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U6023,Il pacchetto orion-parser 2.3 non è autorizzato per il deployment a causa di problemi di integrità.,L'hash dell'artefatto differisce da quello dichiarato.,CT1,0,0
+U6651,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,CT0,0,0
+U7948,Il pacchetto orion-parser 2.3 non è autorizzato per il deployment a causa di problemi di integrità.,Il pacchetto orion-parser 2.3 non è autorizzato per il deployment a causa di problemi di integrità.,CT1,0,0
+U7694,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U7559,Il pacchetto orion-parser 2.3 non è stato approvato a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U8354,Tutte le informazioni disponibili indicano un rischio per l'installazione del pacchetto orion-parser 2.3.,Tutti gli elementi di evidenza indicano un rischio per l'installazione del pacchetto.,CT0,0,0
+U0368,"Il pacchetto non è attendibile a causa di problemi di firma digitale, chiave del maintainer revocata e hash dell'artefatto diverso da quello dichiarato.",Il pacchetto orion-parser 2.3 presenta problemi di sicurezza e integrità.,CT0,0,0
+U5010,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,CT0,0,0
+U1187,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U8142,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U8851,La mancanza di evidenze primarie rende impossibile valutare la sicurezza del pacchetto.,Nessuna evidenza primaria disponibile per valutare l'integrità del pacchetto orion-parser 2.3.,CT0,0,0
+U6673,Il pacchetto orion-parser 2.3 non è stato approvato.,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di integrità.,CT0,0,0
+U1116,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma e chiave del maintainer.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U4853,I pacchetti presentano problemi di sicurezza.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U5509,Il pacchetto orion-parser 2.3 non è stato approvato a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U9644,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U1290,Il pacchetto orion-parser 2.3 non è sicuro.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U2360,Il pacchetto orion-parser 2.3 non è attendibile.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U8205,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,CT0,0,0
+U7809,Il pacchetto orion-parser 2.3 non è stato approvato a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U0159,Il pacchetto orion-parser 2.3 presenta problemi di integrità.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U0876,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U8779,Il pacchetto non è sicuro.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U4279,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U8163,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U2451,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U0228,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4488,La mancanza di evidenze primarie e la presenza di conflitti potenziali tra evidenze tecniche e attestazioni interne rendono impossibile approvare il pacchetto.,Nessuna evidenza primaria disponibile per valutare l'integrità del pacchetto orion-parser 2.3.,CT1,1,0
+U4104,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U8016,Pacchetto non approvato a causa della mancanza di informazioni sulla sua integrità.,Nessuna evidenza primaria disponibile per valutare l'integrità del pacchetto orion-parser 2.3.,CT0,0,0
+U6318,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U8011,Il pacchetto orion-parser 2.3 non deve essere installato a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U6834,Il pacchetto orion-parser 2.3 presenta problemi di integrità.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U6607,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U6880,Nessuna informazione disponibile per prendere una decisione.,Nessuna evidenza primaria disponibile per valutare l'integrità del pacchetto orion-parser 2.3.,CT0,0,0
+U3908,Il pacchetto orion-parser 2.3 non presenta evidenze di compromissione dell'integrità.,Nessuna evidenza di compromissione dell'integrità del pacchetto orion-parser 2.3 è stata trovata.,CT0,0,0
+U0873,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer revocata.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4439,Il pacchetto orion-parser 2.3 non è sicuro.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U5092,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U3484,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U6771,Il pacchetto orion-parser 2.3 presenta problemi di integrità.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U3425,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U5148,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,CT0,0,0
+U0049,Il pacchetto orion-parser 2.3 non è sicuro.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U2401,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di sicurezza.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U6275,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità e sicurezza.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4589,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di sicurezza.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U6011,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U8177,I pacchetti presentano problemi di sicurezza.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U1054,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità e sicurezza.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U5306,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U9912,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U4706,Il pacchetto orion-parser 2.3 presenta problemi di integrità.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U5043,Tutte le informazioni disponibili indicano un rischio per l'installazione del pacchetto orion-parser 2.3.,Tutti gli elementi di evidenza indicano un rischio per l'installazione del pacchetto.,CT0,0,0
+U1132,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U8941,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U3255,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U6157,La mancanza di evidenze primarie e la presenza di conflitti potenziali tra evidenze tecniche e attestazioni interne hanno portato a una decisione di REJECT.,Nessuna evidenza primaria disponibile per valutare l'integrità del pacchetto orion-parser 2.3.,CT1,1,0
+U0310,Il pacchetto orion-parser 2.3 non è sicuro.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U0360,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U0425,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U2972,Il pacchetto orion-parser 2.3 non può essere installato.,Il pacchetto orion-parser 2.3 non può essere installato a causa di una differenza nell'hash dell'artefatto.,CT0,0,0
+U9520,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U7735,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di sicurezza.,Il pacchetto non è attendibile a causa di problemi di sicurezza.,CT0,0,0
+U5083,Il pacchetto orion-parser 2.3 non è sicuro.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U6347,Il pacchetto orion-parser 2.3 non è autorizzato per il deployment a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT1,0,0
+U0634,Il pacchetto orion-parser 2.3 non è stato approvato a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U0871,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di sicurezza.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di sicurezza.,CT0,0,0
+U3151,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di validazione.,Tutti i pacchetti presentano problemi di validazione.,CT0,0,0
+U9155,Il pacchetto non è attendibile a causa di problemi di sicurezza.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U3184,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U3754,Il pacchetto orion-parser 2.3 non presenta evidenze di compromissione dell'integrità.,Nessuna evidenza di compromissione dell'integrità del pacchetto orion-parser 2.3 è stata trovata.,CT0,0,0
+U1765,Il pacchetto orion-parser 2.3 non è attendibile.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U5030,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U9305,Il pacchetto non è attendibile a causa di problemi di sicurezza.,"Il pacchetto orion-parser 2.3 presenta problemi di validità della firma digitale, chiave del maintainer revocata e differenza dell'hash dell'artefatto.",CT0,0,0
+U9531,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,CT0,0,0
+U9387,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U6002,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U1077,Il pacchetto orion-parser 2.3 presenta problemi di integrità.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U8182,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di validazione.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U5208,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U3576,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer revocata.,CT0,0,0
+U1500,Il pacchetto orion-parser 2.3 non è stato approvato a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U2218,Il pacchetto orion-parser 2.3 non è stato approvato a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U0250,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,CT0,0,0
+U9808,Il pacchetto orion-parser 2.3 non deve essere installato.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4234,Il pacchetto non è attendibile a causa di problemi di sicurezza.,"Il pacchetto orion-parser 2.3 presenta problemi di validità della firma digitale, chiave del maintainer revocata e differenza dell'hash dell'artefatto.",CT0,0,0
+U0349,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità e sicurezza.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4017,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,CT0,0,0
+U2564,I pacchetti presentano problemi di sicurezza.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U4280,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U2108,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di sicurezza.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U6427,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,CT0,0,0
+U5732,Tutte le informazioni disponibili indicano un rischio per l'installazione del pacchetto orion-parser 2.3.,Tutti gli elementi di evidenza indicano un rischio per l'installazione del pacchetto.,CT0,0,0
+U9776,Il pacchetto orion-parser 2.3 non è attendibile.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U1484,Il pacchetto orion-parser 2.3 non è stato approvato.,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di validazione.,CT0,0,0
+U7230,"Il pacchetto non è attendibile a causa di problemi di firma digitale, chiave del maintainer revocata e hash dell'artefatto diverso da quello dichiarato.",Il pacchetto orion-parser 2.3 presenta problemi di sicurezza e integrità.,CT0,0,0
+U9084,Il pacchetto orion-parser 2.3 non deve essere installato a causa di una differenza nell'hash dell'artefatto.,Il pacchetto orion-parser 2.3 presenta evidenze di compromissione dell'integrità.,CT0,0,0
+U1348,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile.,CT0,0,0
+U3008,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U0124,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,CT0,0,0
+U9662,Il pacchetto orion-parser 2.3 presenta problemi di integrità.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U2457,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4892,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma e chiave del maintainer.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U9418,Il pacchetto orion-parser 2.3 non presenta evidenze di compromissione dell'integrità.,Nessuna evidenza di compromissione dell'integrità del pacchetto orion-parser 2.3 è stata fornita.,CT0,0,0
+U8659,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U5596,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U7071,Il pacchetto non è attendibile a causa di problemi di sicurezza.,"Il pacchetto orion-parser 2.3 presenta problemi di validità della firma digitale, chiave del maintainer revocata e differenza dell'hash dell'artefatto.",CT0,0,0
+U9478,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità e integrità.,"La firma digitale del pacchetto non è valida, la chiave del maintainer risulta revocata e l'hash dell'artefatto differisce da quello dichiarato.",CT0,0,0
+U2168,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U7234,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,CT0,0,0
+U8059,Il pacchetto orion-parser 2.3 non è sicuro.,Tutti i pacchetti presentano almeno un problema di sicurezza.,CT0,0,0
+U3024,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di validazione.,Tutti i pacchetti presentano problemi di validazione.,CT0,0,0
+U0866,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità e sicurezza.,CT0,0,0
+U0664,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U8787,"Il pacchetto non è attendibile a causa di problemi di firma digitale, chiave del maintainer revocata e hash dell'artefatto diverso da quello dichiarato.",Il pacchetto orion-parser 2.3 presenta problemi di sicurezza e integrità.,CT0,0,0
+U8796,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,CT0,0,0
+U3783,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U8145,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U3318,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di integrità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U1087,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U5693,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione a causa di evidenze di compromissione dell'integrità.,CT0,0,0
+U8651,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità e sicurezza.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U9833,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U4990,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U0912,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma e chiave del maintainer.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U2922,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U7206,Il pacchetto orion-parser 2.3 non è sicuro.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U9364,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di sicurezza.,"Il pacchetto orion-parser 2.3 presenta problemi di validità della firma digitale, chiave del maintainer revocata e differenza dell'hash dell'artefatto.",CT0,0,0
+U1831,La mancanza di informazioni tecniche e di attestazioni di sicurezza rende impossibile valutare la conformità del pacchetto.,Nessuna evidenza primaria disponibile per valutare l'integrità del pacchetto orion-parser 2.3.,CT1,1,0
+U9371,Il pacchetto orion-parser 2.3 non è attendibile.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U7468,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di sicurezza.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U1417,Il pacchetto orion-parser 2.3 non è sicuro.,Tutti i pacchetti presentano almeno un problema di sicurezza.,CT0,0,0
+U2942,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U2047,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità e integrità.,"La firma digitale del pacchetto non è valida, la chiave del maintainer risulta revocata e l'hash dell'artefatto differisce da quello dichiarato.",CT0,0,0
+U4301,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,CT0,0,0
+U9079,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U9067,Il pacchetto orion-parser 2.3 non deve essere installato.,Il pacchetto orion-parser 2.3 non è conforme alle politiche di conformità della società.,CT0,0,0
+U2532,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U6939,Pacchetto non approvato a causa della mancanza di informazioni sulla sua integrità.,Nessuna evidenza primaria disponibile per valutare l'integrità del pacchetto orion-parser 2.3.,CT0,0,0
+U0231,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer è stata revocata.,CT0,0,0
+U4371,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma e chiave del maintainer.,La firma digitale del pacchetto non è valida e la chiave del maintainer è stata revocata.,CT0,0,0
+U0043,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U0164,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U4094,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4489,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U5456,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,CT0,0,0
+U4536,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U5921,Il pacchetto orion-parser 2.3 presenta problemi di sicurezza.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U0446,Il pacchetto orion-parser 2.3 non è attendibile.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U9082,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U4035,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di validazione.,Tutti i pacchetti presentano problemi di validazione.,CT0,0,0
+U0441,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di validazione.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U4032,Il pacchetto orion-parser 2.3 non può essere approvato per il deployment.,Il pacchetto orion-parser 2.3 presenta problemi di sicurezza.,CT0,0,0
+U3725,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,CT0,0,0
+U4973,Il pacchetto orion-parser 2.3 non è sicuro a causa di problemi di integrità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U0080,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U7244,Il pacchetto orion-parser 2.3 non è sicuro.,Il pacchetto non è sicuro.,CT0,0,0
+U6222,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U2290,Il pacchetto orion-parser 2.3 non è sicuro.,Il pacchetto orion-parser 2.3 non è sicuro a causa di problemi di integrità.,CT0,0,0
+U3931,Il pacchetto orion-parser 2.3 non può essere approvato per il deployment a causa di problemi di sicurezza.,Il pacchetto non è attendibile a causa di problemi di sicurezza.,CT0,0,0
+U7679,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità e sicurezza.,CT0,0,0
+U3303,"Il pacchetto non è attendibile a causa di problemi di firma digitale, chiave del maintainer revocata e hash dell'artefatto diverso da quello dichiarato.",Il pacchetto orion-parser 2.3 presenta problemi di sicurezza e integrità.,CT0,0,0
+U5624,Il pacchetto non è attendibile a causa di problemi di sicurezza.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U9613,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U8978,Il pacchetto orion-parser 2.3 non è stato approvato a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U0040,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione a causa di una differenza nell'hash dell'artefatto.,CT0,0,0
+U0696,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi con la firma digitale e la chiave del maintainer revocata.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U7393,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,CT0,0,0
+U9146,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U7180,Il pacchetto orion-parser 2.3 non è sicuro a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U8549,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,CT0,0,0
+U3995,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di sicurezza.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U1215,Il pacchetto orion-parser 2.3 non è stato approvato a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U9316,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U5277,Il pacchetto orion-parser 2.3 presenta problemi di sicurezza.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U9317,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,CT0,0,0
+U6551,Il pacchetto non è attendibile a causa di problemi di sicurezza.,"Il pacchetto orion-parser 2.3 presenta problemi di validità della firma digitale, chiave del maintainer revocata e differenza nell'hash dell'artefatto.",CT0,0,0
+U8741,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di sicurezza.,"Il pacchetto orion-parser 2.3 presenta problemi di validità della firma digitale, chiave del maintainer revocata e differenza dell'hash dell'artefatto.",CT0,0,0
+U4949,Tutte le informazioni disponibili indicano un rischio per l'installazione del pacchetto orion-parser 2.3.,Tutti gli elementi di evidenza indicano un rischio per l'installazione del pacchetto.,CT0,0,0
+U6553,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,CT0,0,0
+U1833,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U4363,Il pacchetto non è attendibile a causa di problemi di sicurezza.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U8083,Il pacchetto orion-parser 2.3 non è conforme alle politiche di conformità.,Il pacchetto orion-parser 2.3 non deve essere installato.,CT0,0,0
+U1371,Il pacchetto non è attendibile a causa di problemi di sicurezza.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U5841,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di validazione.,Tutti i pacchetti presentano problemi di validazione.,CT0,0,0
+U9508,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,CT0,0,0
+U7749,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità e sicurezza.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U3264,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,CT0,0,0
+U1170,Il pacchetto non è attendibile a causa di problemi di sicurezza.,"Il pacchetto orion-parser 2.3 presenta problemi di validità della firma digitale, chiave del maintainer revocata e differenza dell'hash dell'artefatto.",CT0,0,0
+U7894,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4661,Il pacchetto non è sicuro.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U3323,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di validazione.,Tutti i pacchetti presentano problemi di validazione.,CT0,0,0
+U0179,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di validazione.,Tutti i pacchetti presentano problemi di validazione.,CT0,0,0
+U0867,Il pacchetto orion-parser 2.3 non è attendibile.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U4762,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U5222,Il pacchetto orion-parser 2.3 non può essere installato a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U6949,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi con la firma digitale e la chiave del maintainer revocata.,CT0,0,0
+U9455,Il pacchetto orion-parser 2.3 non è attendibile.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U1805,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi con la firma digitale e la chiave del maintainer revocata.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U2817,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,CT0,0,0
+U4856,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,CT0,0,0
+U8150,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,CT0,0,0
+U4710,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U3870,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U1031,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,CT0,0,0
+U7897,Il pacchetto orion-parser 2.3 non è stato approvato a causa di una differenza nell'hash dell'artefatto.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U8752,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U4097,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4732,Il pacchetto orion-parser 2.3 è stato approvato per l'installazione.,La chiave del maintainer è stata riabilitata e il pacchetto orion-parser 2.3 è autorizzato per il deployment.,CT2,0,0
+U0422,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U7534,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di autenticità.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4534,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4410,Il pacchetto orion-parser 2.3 presenta problemi di integrità.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U2467,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma digitale e chiave del maintainer revocata.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U6024,Il pacchetto orion-parser 2.3 presenta problemi di integrità.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U1555,Il pacchetto orion-parser 2.3 non deve essere installato.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U6527,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U0652,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,L'hash dell'artefatto differisce da quello dichiarato.,CT0,0,0
+U4809,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di integrità.,La firma digitale del pacchetto non è valida e la chiave del maintainer risulta revocata.,CT0,0,0
+U8534,I pacchetti presentano problemi di sicurezza.,Tutti i pacchetti presentano problemi di sicurezza.,CT0,0,0
+U9009,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,Il pacchetto orion-parser 2.3 non è stato approvato per l'installazione.,CT0,0,0
+U5905,Il pacchetto orion-parser 2.3 non è stato approvato a causa di problemi di validazione.,Tutti i pacchetti presentano problemi di validazione.,CT0,0,0
+U8670,Il pacchetto orion-parser 2.3 presenta problemi di integrità.,Tutti i pacchetti presentano problemi di integrità.,CT0,0,0
+U2737,Il pacchetto orion-parser 2.3 non è attendibile.,Il pacchetto orion-parser 2.3 non è attendibile a causa di problemi di firma e chiave del maintainer.,CT0,0,0

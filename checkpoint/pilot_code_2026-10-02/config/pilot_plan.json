@@ -1,0 +1,50 @@
+{
+  "plan_version": 1,
+  "status": "v2 - revisione tecnica completata; da congelare con hash all inizio della fase 4",
+  "phase": "pilot_attack",
+  "seed_generation": {
+    "method": "random.Random(20261002).sample(range(10000, 100000), 31)",
+    "condition_order_method": "random.Random(20261003).shuffle per blocco, nell'ordine dei seed primari",
+    "excluded_seeds": [42, 1001, 1002, 1003, 1004, 1005]
+  },
+  "model": {
+    "name": "llama3.1:8b-instruct-q4_K_M",
+    "digest": "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e",
+    "ollama_server_version": "0.35.0"
+  },
+  "timeouts": {
+    "per_call_seconds": 1200,
+    "per_run_seconds": 5400
+  },
+  "max_technical_reruns_per_run": 2,
+  "smoke": {
+    "phase": "pilot_smoke",
+    "seed": 24348,
+    "conditions": ["C1-ROTTEN-ISO", "C2-ROTTEN-DYN", "B0-CLEAN-ISO", "B1-CLEAN-DYN"],
+    "note": "solo verifica tecnica, mai inclusa nelle analisi"
+  },
+  "blocks": [
+    {"block": 1,  "seed": 31100, "order": ["B1-CLEAN-DYN", "C2-ROTTEN-DYN", "C1-ROTTEN-ISO", "B0-CLEAN-ISO"]},
+    {"block": 2,  "seed": 98784, "order": ["C2-ROTTEN-DYN", "B1-CLEAN-DYN", "B0-CLEAN-ISO", "C1-ROTTEN-ISO"]},
+    {"block": 3,  "seed": 28549, "order": ["B1-CLEAN-DYN", "B0-CLEAN-ISO", "C2-ROTTEN-DYN", "C1-ROTTEN-ISO"]},
+    {"block": 4,  "seed": 80953, "order": ["B0-CLEAN-ISO", "B1-CLEAN-DYN", "C1-ROTTEN-ISO", "C2-ROTTEN-DYN"]},
+    {"block": 5,  "seed": 58557, "order": ["C1-ROTTEN-ISO", "B1-CLEAN-DYN", "C2-ROTTEN-DYN", "B0-CLEAN-ISO"]},
+    {"block": 6,  "seed": 63195, "order": ["B1-CLEAN-DYN", "C1-ROTTEN-ISO", "B0-CLEAN-ISO", "C2-ROTTEN-DYN"]},
+    {"block": 7,  "seed": 56304, "order": ["B1-CLEAN-DYN", "C2-ROTTEN-DYN", "C1-ROTTEN-ISO", "B0-CLEAN-ISO"]},
+    {"block": 8,  "seed": 22277, "order": ["B1-CLEAN-DYN", "C1-ROTTEN-ISO", "B0-CLEAN-ISO", "C2-ROTTEN-DYN"]},
+    {"block": 9,  "seed": 95294, "order": ["B0-CLEAN-ISO", "C2-ROTTEN-DYN", "B1-CLEAN-DYN", "C1-ROTTEN-ISO"]},
+    {"block": 10, "seed": 75335, "order": ["C1-ROTTEN-ISO", "C2-ROTTEN-DYN", "B1-CLEAN-DYN", "B0-CLEAN-ISO"]},
+    {"block": 11, "seed": 51475, "order": ["C2-ROTTEN-DYN", "C1-ROTTEN-ISO"]},
+    {"block": 12, "seed": 45660, "order": ["C1-ROTTEN-ISO", "C2-ROTTEN-DYN"]},
+    {"block": 13, "seed": 72522, "order": ["C1-ROTTEN-ISO", "C2-ROTTEN-DYN"]},
+    {"block": 14, "seed": 89802, "order": ["C1-ROTTEN-ISO", "C2-ROTTEN-DYN"]},
+    {"block": 15, "seed": 90140, "order": ["C2-ROTTEN-DYN", "C1-ROTTEN-ISO"]},
+    {"block": 16, "seed": 44968, "order": ["C2-ROTTEN-DYN", "C1-ROTTEN-ISO"]},
+    {"block": 17, "seed": 11777, "order": ["C2-ROTTEN-DYN", "C1-ROTTEN-ISO"]},
+    {"block": 18, "seed": 99314, "order": ["C1-ROTTEN-ISO", "C2-ROTTEN-DYN"]},
+    {"block": 19, "seed": 68971, "order": ["C1-ROTTEN-ISO", "C2-ROTTEN-DYN"]},
+    {"block": 20, "seed": 37275, "order": ["C1-ROTTEN-ISO", "C2-ROTTEN-DYN"]}
+  ],
+  "reserve_seeds": [47497, 59606, 77730, 20920, 77148, 93130, 24987, 12103, 38073, 94183],
+  "reserve_rule": "Un seed di riserva sostituisce un blocco intero, ne eredita condizioni e ordine; si usano in ordine, solo per guasto tecnico."
+}

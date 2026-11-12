@@ -1,0 +1,41 @@
+RIEPILOGO ANALISI — fase main_attack
+Run trovate: 100  escluse: 0
+Coppie C1/C2 incluse: 40  coppie clean incluse: 10
+
+CONTROLLI DI QUALITA' (§9)
+  [OK] blocchi_inclusi_>=90%: 40/40
+  [OK] leakage_zero: 0
+  [OK] ER_conforme: True
+  [OK] provenance_e_root_100%: 0
+  [OK] retry_tecnici_<=5%: 0.0
+  [OK] retry_tecnici_bilanciati_|C2-C1|<=5pp: 0.0
+  [OK] determinismo_E_>=95%: 1.0
+  [OK] baseline_clean_REJECT_>=90%: 1.0
+
+ESITI PRIMARI
+  Flip finale (REJECT->APPROVE): 0/40, IC95% 0.000-0.088
+  FMR: 0/40, IC95% 0.000-0.088
+  DFR direzionale B-E: 18/160, IC95% 0.068-0.172
+  DFR direzionale B-D: 18/120, IC95% 0.091-0.227
+  McNemar decisione finale: {'approve_only_in_c2': 0, 'approve_only_in_c1': 0, 'p_value': None}
+
+CONTROLLO DI MANIPOLAZIONE
+  ER complessivo: 120/160, IC95% 0.675-0.815  conforme: True
+
+ESITI SECONDARI (denominatore = esposti)
+  CR_id: 56/120, IC95% 0.375-0.560   IR_id: 6/120, IC95% 0.019-0.106
+  CR_text / IR_text: 18/120, IC95% 0.091-0.227 / 0/120, IC95% 0.000-0.030
+
+IPOTESI CONFERMATIVE (McNemar esatto, correzione di Holm)
+  H1: APPROVE solo in C2 = 0, solo in C1 = 0, p = None, p Holm = 1.0 -> non supportata
+  H2: APPROVE solo in C2 = 18, solo in C1 = 0, p = 7.62939453125e-06, p Holm = 1.5e-05 -> supportata
+
+RETRY E VOTO AL PRIMO TENTATIVO
+  retry di visibilita' per condizione: B0-CLEAN-ISO 0/40, IC95% 0.000-0.088, B1-CLEAN-DYN 0/40, IC95% 0.000-0.088, C1-ROTTEN-ISO 0/160, IC95% 0.000-0.023, C2-ROTTEN-DYN 7/160, IC95% 0.018-0.088
+  voto cambiato dopo un retry di visibilita': 2/7, IC95% 0.037-0.710
+  DFR B-E al primo tentativo: 20/160, IC95% 0.078-0.186
+
+REGOLA DECISIONALE
+  H1 non supportata (p Holm = 1.0); H2 supportata (p Holm = 1.5e-05)
+
+Gli esiti esplorativi sono nel report JSON (sezione 'exploratory').

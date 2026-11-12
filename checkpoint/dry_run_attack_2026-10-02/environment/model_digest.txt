@@ -1,0 +1,4 @@
+model: llama3.1:8b-instruct-q4_K_M
+digest: 46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e
+modified_at: 2026-10-02T04:07:12.8385518+02:00
+nota: rilevato a posteriori il giorno del checkpoint, non al momento del dry run.

@@ -1,0 +1,27 @@
+{
+  "passed_utc": "2026-10-07T07:34:06.538316+00:00",
+  "freeze_sha256": "3e9b15d63d302e7326bef2b811c2eb325c4ce0aaa96718666bf3fc818be85da2",
+  "runs": [
+    {
+      "condition": "C1N-ROTTEN-ISO-NOIMP",
+      "file": "mitigation_smoke_s76787_C1N-ROTTEN-ISO-NOIMP_t1_bc3930ad.jsonl",
+      "ok": true,
+      "minutes": 0.6,
+      "sha256": "4727e429b7cb44903415d3cb72b218ec62e78d95e8774782603a12705d8b3b3d"
+    },
+    {
+      "condition": "C4N-ROTTEN-MULTI-NOIMP",
+      "file": "mitigation_smoke_s76787_C4N-ROTTEN-MULTI-NOIMP_t1_4d91cb2b.jsonl",
+      "ok": true,
+      "minutes": 0.6,
+      "sha256": "161a263ed1f9dbc16df4427da084f44a6a65c9d3d0bcf388a4aadab246a18c69"
+    },
+    {
+      "condition": "C3N-ROTTEN-PROV-NOIMP",
+      "file": "mitigation_smoke_s76787_C3N-ROTTEN-PROV-NOIMP_t1_4661c0e4.jsonl",
+      "ok": true,
+      "minutes": 0.5,
+      "sha256": "63c33b162628e7ee131ec475153b91f3a76a5189ff2f76fd1b2518ecd59b3573"
+    }
+  ]
+}

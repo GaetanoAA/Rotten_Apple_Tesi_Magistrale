@@ -1,0 +1,34 @@
+{
+  "passed_utc": "2026-10-02T16:08:14.316479+00:00",
+  "freeze_sha256": "fc0a22d6fd1cff3b75066d63403995c18bf7e661bc1756f3b282a1c56042041a",
+  "runs": [
+    {
+      "condition": "C1-ROTTEN-ISO",
+      "file": "pilot_smoke_s24348_C1-ROTTEN-ISO_t1_674c5f28.jsonl",
+      "ok": true,
+      "minutes": 0.2,
+      "sha256": "c60e6fe7c1f9b95ae39f204ac138148ef4fc2d9c4e02b1d424fe7a1eae591839"
+    },
+    {
+      "condition": "C2-ROTTEN-DYN",
+      "file": "pilot_smoke_s24348_C2-ROTTEN-DYN_t1_78359be6.jsonl",
+      "ok": true,
+      "minutes": 0.2,
+      "sha256": "6d6dcdcaabfd741854e791950cb16709bfe2dbc5fb40dc0104c09e4179b982a5"
+    },
+    {
+      "condition": "B0-CLEAN-ISO",
+      "file": "pilot_smoke_s24348_B0-CLEAN-ISO_t1_e85d1f1f.jsonl",
+      "ok": true,
+      "minutes": 0.2,
+      "sha256": "302b611e0111a9312027d7c87d5ef163f5ce435d15c70d1a673a567b863ccac2"
+    },
+    {
+      "condition": "B1-CLEAN-DYN",
+      "file": "pilot_smoke_s24348_B1-CLEAN-DYN_t1_95d0aba5.jsonl",
+      "ok": true,
+      "minutes": 0.2,
+      "sha256": "09425c977ca20a6cb3a5b9822933153e41dfa51ec0ef3f9183fae338ff3068ff"
+    }
+  ]
+}

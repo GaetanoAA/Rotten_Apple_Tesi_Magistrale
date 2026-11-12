@@ -1,0 +1,555 @@
+{
+  "plan_version": 1,
+  "status": "follow-up esplorativo (campo implication rimosso dalle evidenze, identificativi neutri); da congelare prima della prova tecnica",
+  "phase": "followup_attack",
+  "seed_generation": {
+    "method": "random.Random(20261014).sample(range(10000, 100000), 51): primi 40 seed primari, successivi 10 riserve, ultimo seed della prova tecnica",
+    "condition_order_method": "un solo random.Random(20261015); per ogni blocco, in ordine, shuffle di [C1N, C4N]",
+    "excluded_seeds": [
+      42,
+      1001,
+      1002,
+      1003,
+      1004,
+      1005,
+      10186,
+      10336,
+      10348,
+      10740,
+      10751,
+      11035,
+      11777,
+      12103,
+      12208,
+      13454,
+      14442,
+      14807,
+      15126,
+      15233,
+      15528,
+      15654,
+      16203,
+      16316,
+      16345,
+      16583,
+      16611,
+      17585,
+      17608,
+      17686,
+      18199,
+      18983,
+      18994,
+      19411,
+      19788,
+      19996,
+      20902,
+      20920,
+      21159,
+      21421,
+      21524,
+      22125,
+      22277,
+      22435,
+      23287,
+      23344,
+      23525,
+      24169,
+      24348,
+      24409,
+      24987,
+      25022,
+      25030,
+      25698,
+      26584,
+      26746,
+      26823,
+      27811,
+      28549,
+      31100,
+      31775,
+      31799,
+      32333,
+      32386,
+      32757,
+      33076,
+      33577,
+      34963,
+      35186,
+      35830,
+      37275,
+      37956,
+      37978,
+      38073,
+      39173,
+      39942,
+      40137,
+      40539,
+      40560,
+      40747,
+      43260,
+      43701,
+      44762,
+      44903,
+      44968,
+      45660,
+      46223,
+      46708,
+      47497,
+      47859,
+      48114,
+      48156,
+      48177,
+      48323,
+      48331,
+      48621,
+      48749,
+      49196,
+      51364,
+      51389,
+      51475,
+      51763,
+      52103,
+      52858,
+      52937,
+      53173,
+      54140,
+      54258,
+      54936,
+      55235,
+      55900,
+      56304,
+      56487,
+      56750,
+      57524,
+      58557,
+      59606,
+      60683,
+      61235,
+      61474,
+      61615,
+      61619,
+      61740,
+      62612,
+      63130,
+      63195,
+      63297,
+      64896,
+      67336,
+      67776,
+      68971,
+      69105,
+      69399,
+      69557,
+      69573,
+      69999,
+      72208,
+      72522,
+      73360,
+      75335,
+      75620,
+      76984,
+      77148,
+      77261,
+      77730,
+      79612,
+      80728,
+      80953,
+      81041,
+      81252,
+      81514,
+      81570,
+      81649,
+      81660,
+      81936,
+      82856,
+      82915,
+      83369,
+      83535,
+      83647,
+      83921,
+      83951,
+      83974,
+      85386,
+      87971,
+      88674,
+      88921,
+      89284,
+      89601,
+      89802,
+      89813,
+      90140,
+      90295,
+      91229,
+      91585,
+      92180,
+      92842,
+      93130,
+      93776,
+      94183,
+      95294,
+      95605,
+      95970,
+      96328,
+      96781,
+      97660,
+      98241,
+      98784,
+      99083,
+      99314
+    ]
+  },
+  "model": {
+    "name": "llama3.1:8b-instruct-q4_K_M",
+    "digest": "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e",
+    "ollama_server_version": "0.35.0"
+  },
+  "timeouts": {
+    "per_call_seconds": 1200,
+    "per_run_seconds": 5400
+  },
+  "max_technical_reruns_per_run": 2,
+  "smoke": {
+    "phase": "followup_smoke",
+    "seed": 27352,
+    "conditions": [
+      "C1N-ROTTEN-ISO-NOIMP",
+      "C4N-ROTTEN-MULTI-NOIMP"
+    ],
+    "note": "solo verifica tecnica, mai inclusa nelle analisi"
+  },
+  "blocks": [
+    {
+      "block": 1,
+      "seed": 81516,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 2,
+      "seed": 32917,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 3,
+      "seed": 98802,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 4,
+      "seed": 29599,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 5,
+      "seed": 73121,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 6,
+      "seed": 87468,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 7,
+      "seed": 76574,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 8,
+      "seed": 53351,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 9,
+      "seed": 92978,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 10,
+      "seed": 56914,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 11,
+      "seed": 51874,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 12,
+      "seed": 78975,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 13,
+      "seed": 56466,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 14,
+      "seed": 29966,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 15,
+      "seed": 81477,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 16,
+      "seed": 67162,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 17,
+      "seed": 50701,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 18,
+      "seed": 68051,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 19,
+      "seed": 66679,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 20,
+      "seed": 45432,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 21,
+      "seed": 40998,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 22,
+      "seed": 17856,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 23,
+      "seed": 68629,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 24,
+      "seed": 51182,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 25,
+      "seed": 96620,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 26,
+      "seed": 75960,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 27,
+      "seed": 91938,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 28,
+      "seed": 86496,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 29,
+      "seed": 92112,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 30,
+      "seed": 62813,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 31,
+      "seed": 51223,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 32,
+      "seed": 44551,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 33,
+      "seed": 65309,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 34,
+      "seed": 84543,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 35,
+      "seed": 36318,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 36,
+      "seed": 19751,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 37,
+      "seed": 53993,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 38,
+      "seed": 38263,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    },
+    {
+      "block": 39,
+      "seed": 24539,
+      "order": [
+        "C1N-ROTTEN-ISO-NOIMP",
+        "C4N-ROTTEN-MULTI-NOIMP"
+      ]
+    },
+    {
+      "block": 40,
+      "seed": 60045,
+      "order": [
+        "C4N-ROTTEN-MULTI-NOIMP",
+        "C1N-ROTTEN-ISO-NOIMP"
+      ]
+    }
+  ],
+  "reserve_seeds": [
+    22810,
+    11570,
+    16298,
+    58489,
+    46299,
+    61367,
+    25808,
+    66951,
+    59957,
+    21783
+  ],
+  "reserve_rule": "Un seed di riserva sostituisce un blocco intero, ne eredita condizioni e ordine; si usano in ordine, solo per guasto tecnico."
+}

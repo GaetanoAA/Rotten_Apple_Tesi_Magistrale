@@ -1,0 +1,34 @@
+{
+  "passed_utc": "2026-10-02T17:37:29.668680+00:00",
+  "freeze_sha256": "0121ef285e5e0015d1b068fffaa3841aeaa988131b4cf1b3c389fbcfdc270196",
+  "runs": [
+    {
+      "condition": "C1-ROTTEN-ISO",
+      "file": "main_smoke_s16316_C1-ROTTEN-ISO_t1_847639aa.jsonl",
+      "ok": true,
+      "minutes": 0.2,
+      "sha256": "e877bee297a0dd000994f57c528e2ef7ef52a2a877cd640ffc5f04ce9d4ca41b"
+    },
+    {
+      "condition": "C2-ROTTEN-DYN",
+      "file": "main_smoke_s16316_C2-ROTTEN-DYN_t1_22278224.jsonl",
+      "ok": true,
+      "minutes": 0.2,
+      "sha256": "389243f4e42e390ed37fbc3419e6b6653e5e4a838f54de36dc4a1cd003c1223d"
+    },
+    {
+      "condition": "B0-CLEAN-ISO",
+      "file": "main_smoke_s16316_B0-CLEAN-ISO_t1_90aa0016.jsonl",
+      "ok": true,
+      "minutes": 0.2,
+      "sha256": "ba7041510854eb10fc3b70205bb3adda9af890f5ba6f6a8824fb0afab2a43b1c"
+    },
+    {
+      "condition": "B1-CLEAN-DYN",
+      "file": "main_smoke_s16316_B1-CLEAN-DYN_t1_3ebb0d3c.jsonl",
+      "ok": true,
+      "minutes": 0.2,
+      "sha256": "aab40f0cfa8b636cfeded549046ed02207087783f1556a22c525d215271ed522"
+    }
+  ]
+}

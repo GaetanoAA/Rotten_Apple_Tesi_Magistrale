@@ -1,0 +1,6 @@
+{"timestamp": "2026-10-07T08:30:47.680568+00:00", "event": "LAUNCH", "run_id": "mitigation3_smoke_s50843_C1N-ROTTEN-ISO-NOIMP_t1_1a0c8290", "block": 0, "seed": 50843, "original_seed": 50843, "condition": "C1N-ROTTEN-ISO-NOIMP", "attempt": 1}
+{"timestamp": "2026-10-07T08:31:04.713424+00:00", "event": "FINISH", "run_id": "mitigation3_smoke_s50843_C1N-ROTTEN-ISO-NOIMP_t1_1a0c8290", "status": "COMPLETED", "duration_s": 17.0}
+{"timestamp": "2026-10-07T08:31:04.772269+00:00", "event": "LAUNCH", "run_id": "mitigation3_smoke_s50843_C4N-ROTTEN-MULTI-NOIMP_t1_5d6c5b8a", "block": 0, "seed": 50843, "original_seed": 50843, "condition": "C4N-ROTTEN-MULTI-NOIMP", "attempt": 1}
+{"timestamp": "2026-10-07T08:31:20.385522+00:00", "event": "FINISH", "run_id": "mitigation3_smoke_s50843_C4N-ROTTEN-MULTI-NOIMP_t1_5d6c5b8a", "status": "COMPLETED", "duration_s": 15.6}
+{"timestamp": "2026-10-07T08:31:20.443035+00:00", "event": "LAUNCH", "run_id": "mitigation3_smoke_s50843_C3D-ROTTEN-ROOT-NOIMP_t1_154d669b", "block": 0, "seed": 50843, "original_seed": 50843, "condition": "C3D-ROTTEN-ROOT-NOIMP", "attempt": 1}
+{"timestamp": "2026-10-07T08:31:31.108339+00:00", "event": "FINISH", "run_id": "mitigation3_smoke_s50843_C3D-ROTTEN-ROOT-NOIMP_t1_154d669b", "status": "COMPLETED", "duration_s": 10.7}

@@ -1,0 +1,6 @@
+{"timestamp": "2026-10-05T12:18:27.004322+00:00", "event": "LAUNCH", "run_id": "variant_smoke_s18983_C1-ROTTEN-ISO_t1_9b6ff68e", "block": 0, "seed": 18983, "original_seed": 18983, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-05T12:18:47.753238+00:00", "event": "FINISH", "run_id": "variant_smoke_s18983_C1-ROTTEN-ISO_t1_9b6ff68e", "status": "COMPLETED", "duration_s": 20.7}
+{"timestamp": "2026-10-05T12:18:47.773554+00:00", "event": "LAUNCH", "run_id": "variant_smoke_s18983_C2-ROTTEN-DYN_t1_9bc051e1", "block": 0, "seed": 18983, "original_seed": 18983, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-05T12:19:04.706247+00:00", "event": "FINISH", "run_id": "variant_smoke_s18983_C2-ROTTEN-DYN_t1_9bc051e1", "status": "COMPLETED", "duration_s": 16.9}
+{"timestamp": "2026-10-05T12:19:04.750123+00:00", "event": "LAUNCH", "run_id": "variant_smoke_s18983_C4-ROTTEN-MULTI_t1_b90a8494", "block": 0, "seed": 18983, "original_seed": 18983, "condition": "C4-ROTTEN-MULTI", "attempt": 1}
+{"timestamp": "2026-10-05T12:19:21.158167+00:00", "event": "FINISH", "run_id": "variant_smoke_s18983_C4-ROTTEN-MULTI_t1_b90a8494", "status": "COMPLETED", "duration_s": 16.4}

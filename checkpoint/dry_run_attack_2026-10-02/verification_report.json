@@ -1,0 +1,12 @@
+{
+  "checkpoint_id": "dry_run_attack_2026-10-02",
+  "environment": {
+    "model_modified_at": "2026-10-02T04:07:12.8385518+02:00",
+    "ollama_server_version": "0.35.0",
+    "model_digest": "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e"
+  },
+  "pytest": "============================= 11 passed in 1.41s ==============================",
+  "status": "VERIFIED",
+  "zip_sha256": "3a08b90da23e2ad252d226f6741a5aa7339cb2386d021d20bdb39c9f3975537d",
+  "readonly_logs": 28
+}

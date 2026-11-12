@@ -1,0 +1,8 @@
+{"timestamp": "2026-10-02T16:06:11.759968+00:00", "event": "LAUNCH", "run_id": "pilot_smoke_s24348_C1-ROTTEN-ISO_t1_674c5f28", "block": 0, "seed": 24348, "original_seed": 24348, "condition": "C1-ROTTEN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T16:06:26.382011+00:00", "event": "FINISH", "run_id": "pilot_smoke_s24348_C1-ROTTEN-ISO_t1_674c5f28", "status": "COMPLETED", "duration_s": 14.6}
+{"timestamp": "2026-10-02T16:06:26.416189+00:00", "event": "LAUNCH", "run_id": "pilot_smoke_s24348_C2-ROTTEN-DYN_t1_78359be6", "block": 0, "seed": 24348, "original_seed": 24348, "condition": "C2-ROTTEN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T16:06:41.230232+00:00", "event": "FINISH", "run_id": "pilot_smoke_s24348_C2-ROTTEN-DYN_t1_78359be6", "status": "COMPLETED", "duration_s": 14.8}
+{"timestamp": "2026-10-02T16:06:41.278634+00:00", "event": "LAUNCH", "run_id": "pilot_smoke_s24348_B0-CLEAN-ISO_t1_e85d1f1f", "block": 0, "seed": 24348, "original_seed": 24348, "condition": "B0-CLEAN-ISO", "attempt": 1}
+{"timestamp": "2026-10-02T16:06:56.775151+00:00", "event": "FINISH", "run_id": "pilot_smoke_s24348_B0-CLEAN-ISO_t1_e85d1f1f", "status": "COMPLETED", "duration_s": 15.5}
+{"timestamp": "2026-10-02T16:06:56.824769+00:00", "event": "LAUNCH", "run_id": "pilot_smoke_s24348_B1-CLEAN-DYN_t1_95d0aba5", "block": 0, "seed": 24348, "original_seed": 24348, "condition": "B1-CLEAN-DYN", "attempt": 1}
+{"timestamp": "2026-10-02T16:07:11.987587+00:00", "event": "FINISH", "run_id": "pilot_smoke_s24348_B1-CLEAN-DYN_t1_95d0aba5", "status": "COMPLETED", "duration_s": 15.2}
